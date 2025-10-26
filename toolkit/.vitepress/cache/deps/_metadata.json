@@ -1,0 +1,79 @@
+{
+  "hash": "6aa204ae",
+  "configHash": "95580f3b",
+  "lockfileHash": "5f9897e8",
+  "browserHash": "448e90bf",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0a374687",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "8f9cc766",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/vitepress/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "211dc2b6",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../../../node_modules/class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "f230b277",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/dist/index.js",
+      "file": "@vueuse_core.js",
+      "fileHash": "3d4b2a2b",
+      "needsInterop": false
+    },
+    "embla-carousel-vue": {
+      "src": "../../../../node_modules/embla-carousel-vue/esm/embla-carousel-vue.esm.js",
+      "file": "embla-carousel-vue.js",
+      "fileHash": "dad01811",
+      "needsInterop": false
+    },
+    "reka-ui": {
+      "src": "../../../../node_modules/reka-ui/dist/index.js",
+      "file": "reka-ui.js",
+      "fileHash": "6480fb5a",
+      "needsInterop": false
+    },
+    "lucide-vue-next": {
+      "src": "../../../../node_modules/lucide-vue-next/dist/esm/lucide-vue-next.js",
+      "file": "lucide-vue-next.js",
+      "fileHash": "520f2e9f",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../../../node_modules/clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "9047a103",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../../../node_modules/tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "2d202840",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LPO6FEV6": {
+      "file": "chunk-LPO6FEV6.js"
+    },
+    "chunk-TMJZV6YU": {
+      "file": "chunk-TMJZV6YU.js"
+    },
+    "chunk-PZ5AY32C": {
+      "file": "chunk-PZ5AY32C.js"
+    }
+  }
+}
