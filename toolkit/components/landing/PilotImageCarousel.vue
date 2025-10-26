@@ -30,12 +30,12 @@ defineProps<Props>();
                 <CarouselItem
                     v-for="(image, index) in images"
                     :key="index"
-                    class="pl-0 h-full"
+                    class="pl-0 h-full min-h-0 flex flex-col"
                 >
                     <img
                         :src="image"
                         :alt="`${city} project image ${index + 1}`"
-                        class="object-cover rounded-2xl flex h-full!"
+                        class="object-cover rounded-2xl flex-1 w-full min-h-0"
                     />
                 </CarouselItem>
             </CarouselContent>
