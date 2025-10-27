@@ -220,13 +220,15 @@ const projects: Project[] = [
                                         <div
                                             class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 w-full"
                                         >
-                                            <blockquote>
+                                            <blockquote
+                                                class="flex flex-col justify-between h-full"
+                                            >
                                                 <p
                                                     class="text-sm text-slate-700 leading-relaxed mb-4"
                                                 >
                                                     "{{ quote.text }}"
                                                 </p>
-                                                <footer>
+                                                <footer class="mt-2">
                                                     <cite class="not-italic">
                                                         <div
                                                             class="font-semibold text-slate-900 text-sm"
@@ -245,7 +247,7 @@ const projects: Project[] = [
                                     </CarouselItem>
                                 </CarouselContent>
                                 <div
-                                    class="w-full justify-between flex bg-gray-100 rounded-xl translate-y-0.5 border border-gray-100"
+                                    class="w-full justify-between flex rounded-xl translate-y-0.5 border border-gray-100"
                                 >
                                     <CarouselPrevious
                                         class="relative translate-x-0 translate-y-0 left-0 top-0 rounded-xl border-gray-300 size-9"

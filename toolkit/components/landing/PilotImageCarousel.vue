@@ -42,10 +42,10 @@ defineProps<Props>();
 
             <!-- Navigation buttons positioned at bottom corners -->
             <CarouselPrevious
-                class="absolute bottom-4 left-4 translate-x-0 translate-y-0 rounded-xl border-gray-300 bg-white/90 hover:bg-white"
+                class="absolute bottom-4 left-1 translate-x-0 rounded-xl border-gray-300 bg-white/90 hover:bg-white"
             />
             <CarouselNext
-                class="absolute bottom-4 right-4 translate-x-0 translate-y-0 rounded-xl border-gray-300 bg-white/90 hover:bg-white"
+                class="absolute bottom-4 right-1 translate-x-0 rounded-xl border-gray-300 bg-white/90 hover:bg-white"
             />
         </Carousel>
     </div>
