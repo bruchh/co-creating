@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.2 425.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6ad98;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #292c2f;
+        stroke-miterlimit: 10;
+        stroke-width: 7.94px;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fafafa;
+        opacity: .3;
+      }
+
+      .cls-4 {
+        fill: #f6fafe;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-6 {
+        fill: #bdbcbc;
+      }
+
+      .cls-7 {
+        fill: #bcb185;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="85.08" y="255.14" width="63.92" height="85.05"/>
+  <rect class="cls-7" x="149.04" y="170.13" width="63.92" height="170.06"/>
+  <rect class="cls-6" x="212.96" y="255.14" width="63.92" height="85.05"/>
+  <rect class="cls-1" x="276.85" y="85.05" width="63.92" height="255.14"/>
+  <circle class="cls-3" cx="246.6" cy="203.89" r="76.47"/>
+  <line class="cls-5" x1="301" y1="257.63" x2="382.54" y2="339.17"/>
+  <circle class="cls-2" cx="246.6" cy="203.89" r="76.47"/>
+</svg>

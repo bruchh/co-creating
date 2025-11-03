@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import SectionH2 from "../ui/SectionH2.vue";
+import Icon from "../ui/Icon.vue";
+
 interface Partner {
     name: string;
     logo: string;
@@ -35,18 +38,17 @@ const partners: Partner[] = [
 </script>
 
 <template>
-    <section
-        class="py-16 md:py-24 bg-linear-to-b from-white to-purple-50 rounded-2xl"
-    >
+    <section class="py-16 md:py-24 rounded-2xl relative mt-8">
+        <div
+            class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 border-gold border border-dashed rounded-2xl -z-10"
+        ></div>
         <div class="container mx-auto">
             <!-- Main CTA Content -->
             <div class="max-w-4xl mx-auto mb-12">
-                <h2
-                    class="text-3xl! md:text-4xl! font-bold! text-gray-900 mb-4! text-center"
-                >
+                <SectionH2 class="mx-auto text-center">
                     Ready to Start Your Own Project?
-                </h2>
-                <p class="text-lg! text-slate-700! mb-10! text-center">
+                </SectionH2>
+                <p class="text-lg! text-dpart-purple-dark! mb-10! text-center">
                     Join cities and organizations creating meaningful youth
                     engagement through co-creation.
                 </p>
@@ -56,14 +58,17 @@ const partners: Partner[] = [
                     <!-- Primary CTA -->
                     <a
                         href="/docs/guide/getting-started"
-                        class="group bg-white text-white rounded-xl p-6 transition-all hover:shadow-lg"
+                        class="group bg-salmon rounded-xl p-6 transition-all hover:shadow-lg"
                     >
+                        <Icon name="data-3" :size="56" class="mb-2" />
                         <div class="flex items-center justify-between mb-2">
-                            <h3 class="text-xl! font-bold!">
+                            <h3
+                                class="text-xl! font-bold! text-dpart-purple-dark!"
+                            >
                                 Start Your Project
                             </h3>
                         </div>
-                        <p class="text-gray-700 text-sm">
+                        <p class="text-dpart-purple-dark! text-sm">
                             Access the complete toolkit with step-by-step
                             guidance
                         </p>
@@ -72,12 +77,17 @@ const partners: Partner[] = [
                     <!-- Secondary CTA -->
                     <a
                         href="mailto:citiescomms@gmfus.org"
-                        class="group bg-white text-white rounded-xl p-6 transition-all hover:shadow-lg"
+                        class="group bg-dpart-light-blue rounded-xl p-6 transition-all hover:shadow-lg"
                     >
+                        <Icon name="kontakt" :size="56" class="mb-2" />
                         <div class="flex items-center justify-between mb-2">
-                            <h3 class="text-xl! font-bold!">Get In Touch</h3>
+                            <h3
+                                class="text-xl! font-bold! text-dpart-purple-dark!"
+                            >
+                                Get In Touch
+                            </h3>
                         </div>
-                        <p class="text-gray-700 text-sm">
+                        <p class="text-dpart-purple-dark! text-sm">
                             Contact us with questions or tell us about your
                             project
                         </p>
@@ -86,7 +96,7 @@ const partners: Partner[] = [
             </div>
 
             <!-- Partner Logos -->
-            <div class="max-w-5xl mx-auto">
+            <div class="max-w-3xl mx-auto">
                 <p class="text-center text-xs! text-slate-500 mb-6! md:mb-8!">
                     In partnership with
                 </p>
@@ -105,7 +115,7 @@ const partners: Partner[] = [
                         <img
                             :src="partner.logo"
                             :alt="`${partner.name} logo`"
-                            class="h-12! w-auto object-contain"
+                            class="h-10! w-auto object-contain"
                             :style="{ transform: `scale(${partner.scale})` }"
                         />
                     </a>

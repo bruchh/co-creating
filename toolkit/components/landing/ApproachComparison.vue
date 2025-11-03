@@ -29,16 +29,18 @@ const comparisons: ComparisonPair[] = [
 </script>
 
 <template>
-    <div class="max-w-3xl mx-auto">
+    <div
+        class="max-w-3xl mx-auto p-6 rounded-2xl border border-gold border-dashed flex flex-col h-full md:pr-12 lg:pr-16"
+    >
         <!-- Legend -->
-        <div class="flex items-center justify-center gap-8 mb-8 text-sm">
+        <div class="flex gap-8 mb-8 text-sm">
             <div class="flex items-center gap-2">
                 <div class="w-3 h-3 rounded-full bg-slate-300" />
                 <span class="text-slate-600">Traditional Approach</span>
             </div>
             <div class="flex items-center gap-2">
-                <div class="w-3 h-3 rounded-full bg-slate-800" />
-                <span class="text-slate-900 font-medium"
+                <div class="w-3 h-3 rounded-full bg-dpart-purple-dark!" />
+                <span class="text-dpart-purple-dark! font-medium"
                     >Co-Created Approach</span
                 >
             </div>
@@ -60,7 +62,7 @@ const comparisons: ComparisonPair[] = [
                         class="text-purple-700"
                     />
                     <!-- Co-created approach -->
-                    <div class="text-slate-900 font-medium">
+                    <div class="text-dpart-purple-dark! font-medium">
                         {{ pair.coCreated }}
                     </div>
                 </div>

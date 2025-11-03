@@ -12,10 +12,8 @@ const props = withDefaults(defineProps<Props>(), {
 <template>
     <header
         :class="[
-            'py-1 px-4 border-b-2 border-purple-100 text-purple-700 flex max-w-fit mb-8 md:mb-12 lg:mb-16 max-md:pl-8 -translate-x-6 md:translate-x-0',
-            props.centered
-                ? 'sm:border-l-2 border-r-2 rounded-br-lg sm:rounded-bl-lg sm:mx-auto'
-                : 'border-r-2 rounded-br-lg ',
+            'py-2 px-4 border border-gold border-dashed rounded-xl  text-dpart-purple flex max-w-fit mb-8',
+            props.centered && 'sm:mx-auto',
         ]"
     >
         <h2 class="text-sm! font-bold!">{{ title }}</h2>

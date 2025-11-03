@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.2 425.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d5dde5;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 7.94px;
+      }
+
+      .cls-2 {
+        fill: #bcb185;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #bdbcbc;
+        stroke: #292c2f;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="175.61" y="104.23" width="83.59" height="43.37"/>
+  <polyline class="cls-2" points="195.85 234.34 87.37 234.34 87.37 147.6 347.43 147.6 347.43 234.34 237.49 234.34"/>
+  <polyline class="cls-4" points="237.49 234.34 347.43 234.34 347.43 321.08 87.37 321.08 87.37 234.34 195.85 234.34"/>
+  <rect class="cls-1" x="195.69" y="201.81" width="41.79" height="65.06"/>
+</svg>

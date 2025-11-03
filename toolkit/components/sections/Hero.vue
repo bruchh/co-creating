@@ -9,12 +9,12 @@ import PilotVideo from "../landing/PilotVideo.vue";
             class="mx-auto text-center flex flex-col gap-4 md:gap-8 mb-8 sm:mb-12 lg:mb-16"
         >
             <h1
-                class="text-[clamp(2.5rem,1.154rem+5.128vw,5rem)]! leading-[clamp(2.5rem,1.154rem+5.128vw,5rem)]! font-bold! mb-6"
+                class="text-[clamp(2.5rem,1.154rem+5.128vw,5rem)]! text-dpart-purple-dark leading-[clamp(2.5rem,1.154rem+5.128vw,5rem)]! font-bold! mb-6"
             >
                 Co-Creating Our City: Youth and Decision-Makers Shaping
                 Participation and Change
             </h1>
-            <p class="text-xl text-gray-600 mb-8 text-balance!">
+                <p class="text-xl text-gray-600 mb-8 text-balance!">
                 Co-Creating Our City is a participatory project that brings
                 together local young people and decision-makers to shape
                 opportunities for youth engagement in cities and municipalities.

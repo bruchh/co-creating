@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.2 425.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #adc8ea;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #292c2f;
+        stroke-width: 7.94px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 2;
+      }
+
+      .cls-2 {
+        fill: #e5eef7;
+      }
+
+      .cls-3 {
+        fill: #f4f4f4;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a4cfc5;
+      }
+
+      .cls-5 {
+        fill: #bdbcbc;
+      }
+
+      .cls-6 {
+        fill: #bcb185;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-3" points="125.81 341.54 299.38 341.54 299.38 169.92 233.24 103.43 125.81 103.43 125.81 341.54"/>
+  <polygon class="cls-2" points="299.38 169.92 233.24 169.92 233.24 103.39 299.38 169.92"/>
+  <circle class="cls-5" cx="211.56" cy="262.97" r="54.75"/>
+  <path class="cls-6" d="M211.56,208.22v54.77l54.75-.02c0-30.24-24.51-54.75-54.75-54.75Z"/>
+  <path class="cls-4" d="M259.36,289.68c4.43-7.9,6.95-17.01,6.95-26.71l-54.75.02,47.8,26.69Z"/>
+  <path class="cls-1" d="M211.56,262.99l36.28,38.88.96,1.22c4.18-3.88,7.75-8.4,10.55-13.41l-47.8-26.69Z"/>
+</svg>

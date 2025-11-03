@@ -1,0 +1,41 @@
+<script setup lang="ts">
+defineProps<{
+    quote: string;
+    person: string;
+    position: string;
+    class?: string;
+}>();
+</script>
+
+<template>
+    <div
+        :class="[
+            'relative bg-[#F4F4F4] p-8 h-full pl-12 rounded-xl',
+            $props.class,
+        ]"
+    >
+        <!-- Quote SVG Icon -->
+        <img
+            src="/quote.svg"
+            alt=""
+            class="absolute top-0 left-4 size-16 opacity-50"
+        />
+
+        <!-- Quote Content -->
+        <div class="relative z-10 pl-8 h-full flex flex-col justify-between">
+            <p
+                class="text-base! font-regular! text-dpart-purple! mb-4 text-balance"
+            >
+                {{ quote }}
+            </p>
+
+            <!-- Attribution -->
+            <div class="mt-4">
+                <p class="font-bold text-dpart-purple-dark!">{{ person }}</p>
+                <p class="italic font-light text-dpart-purple!">
+                    {{ position }}
+                </p>
+            </div>
+        </div>
+    </div>
+</template>

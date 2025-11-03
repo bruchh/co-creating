@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425.2 425.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-width: 7.94px;
+      }
+
+      .cls-2 {
+        fill: #78150b;
+      }
+
+      .cls-3 {
+        fill: #460900;
+        stroke-miterlimit: 2;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="113.43 340.2 283.73 340.2 283.73 171.82 218.83 106.58 113.43 106.58 113.43 340.2"/>
+  <polygon class="cls-3" points="283.73 171.82 218.83 171.82 218.83 106.54 283.73 171.82"/>
+  <line class="cls-1" x1="141.4" y1="209.4" x2="254.82" y2="209.4"/>
+  <line class="cls-1" x1="141.4" y1="239.88" x2="233.59" y2="239.88"/>
+  <line class="cls-1" x1="141.4" y1="270.4" x2="254.82" y2="270.4"/>
+  <line class="cls-1" x1="141.4" y1="300.92" x2="212.37" y2="300.92"/>
+  <g>
+    <line class="cls-2" x1="85.08" y1="148.86" x2="168.59" y2="148.86"/>
+    <polyline class="cls-1" points="147.44 127.71 168.72 148.99 147.44 170.27"/>
+  </g>
+</svg>

@@ -1,16 +1,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import SectionHeader from "@/components/ui/SectionHeader.vue";
-import PanelCard from "@/components/landing/PanelCard.vue";
-import { Button } from "@/components/ui/button";
-import {
-    Lightbulb,
-    Rocket,
-    Users,
-    FlaskConical,
-    Target,
-} from "lucide-vue-next";
-import type { Component } from "vue";
+import SectionH2 from "@/components/ui/SectionH2.vue";
 import {
     Carousel,
     CarouselContent,
@@ -23,76 +14,44 @@ import CustomButton from "@/components/ui/CustomButton.vue";
 interface Module {
     id: string;
     title: string;
-    intro: string;
-    bullets: string[];
-    icon: Component;
+    description: string;
     link: string;
 }
 
 const modules: Module[] = [
     {
         id: "making-the-case",
-        title: "Making the case for 'Co-creating our city'",
-        intro: "Discover why Co-Creating Our City projects are essential for meaningful youth engagement.",
-        bullets: [
-            "Benefits of running your own project",
-            "Stronger youth participation and collaborative problem-solving",
-            "Creation of more inclusive, responsive cities",
-            "How projects empower both young people and decision-makers to make real impact",
-        ],
-        icon: Lightbulb,
+        title: "Making the Case for 'Co-Creating Our City'",
+        description:
+            "Discover why Co-Creating Our City projects are essential for meaningful youth engagement. Learn how they boost youth participation, foster collaboration, and create more inclusive communities. See how these projects empower both young people and decision-makers to make real impact.",
         link: "/docs/modules/making-the-case",
     },
     {
         id: "setting-up",
-        title: "Setting up your own 'Co-creating our city' project",
-        intro: "Set your project up for success with clear goals, a strong team, and solid partnerships.",
-        bullets: [
-            "Practical guidance on planning and funding",
-            "Building relationships with local organizations and city authorities",
-            "Establishing foundations that ensure your project runs smoothly",
-            "Delivering meaningful outcomes",
-        ],
-        icon: Rocket,
+        title: "Setting Up Your Own Project",
+        description:
+            "Build a strong foundation for your project with practical guidance on planning and budgeting. Find out how to set goals, plan, fund, and assemble the right team and partnerships. Ensure your project runs smoothly and delivers meaningful results.",
         link: "/docs/modules/setting-up",
     },
     {
         id: "bringing-together",
-        title: "Bringing young people and city leaders together",
-        intro: "Meaningful collaboration is at the heart of Co-Creating Our City.",
-        bullets: [
-            "Connecting young people and decision-makers as co-researchers",
-            "Overcoming motivational and collaboration challenges",
-            "Creating a shared understanding of local needs",
-            "Unlocking the potential of mutual exchange to design solutions that reflect youth perspectives",
-        ],
-        icon: Users,
+        title: "Bringing Young People and City Leaders Together",
+        description:
+            "Turn collaboration into real action. Learn how to recruit, motivate, and meaningfully connect young people and decision-makers as co-researchers, how to overcome challenges, and design solutions that reflect real youth perspectives.",
         link: "/docs/modules/bringing-together",
     },
     {
         id: "participatory-research",
-        title: "Doing participatory research with young people and city leaders",
-        intro: "Learn how to carry out participatory research that combines lived experience and policy expertise.",
-        bullets: [
-            "Step-by-step guidance on designing and facilitating research activities",
-            "Sustaining research activities with ready-to-use materials",
-            "Tips for overcoming challenges",
-            "Turning collaborative research into actionable insights",
-        ],
-        icon: FlaskConical,
+        title: "Doing Participatory Research",
+        description:
+            "Learn to plan, facilitate, and sustain participatory research that combines youth insight and policy expertise. Access step-by-step guidance, ready-to-use materials, and tips to turn research into actionable solutions for your community.",
         link: "/docs/modules/participatory-research",
     },
     {
         id: "achieving-impact",
-        title: "Achieving impact with your findings and outputs",
-        intro: "Ensure your project creates real change by sharing insights effectively.",
-        bullets: [
-            "Communicating findings back to young people and communities",
-            "Motivating city leaders to act on the results",
-            "Translating research into policies and programs",
-            "Enhancing youth engagement and strengthening participatory democracy",
-        ],
-        icon: Target,
+        title: "Achieving Impact",
+        description:
+            "Make your findings count. Discover how to share results with youth and the wider public, while motivating city leaders to act on the findings. Translate research into policies, programs, and lasting change that strengthen youth engagement in your community.",
         link: "/docs/modules/achieving-impact",
     },
 ];
@@ -101,22 +60,22 @@ const selectedModuleIndex = ref(0);
 </script>
 
 <template>
-    <section class="py-16 md:py-24">
-        <div class="container mx-auto">
+    <section class="py-16 md:py-24 relative">
+        <div
+            class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 bg-dpart-light-blue rounded-2xl -z-10"
+        ></div>
+        <div class="mx-auto">
             <SectionHeader title="Toolkit Modules" />
 
             <!-- Intro -->
             <div class="max-w-3xl mb-12 md:mb-16">
-                <h2
-                    class="text-3xl! md:text-4xl! font-bold! text-gray-900 mb-6!"
-                >
-                    Everything You Need to Run Your Own Project
-                </h2>
+                <SectionH2> Start Your Own Project With Our Toolkit </SectionH2>
                 <p class="text-lg text-slate-700 leading-relaxed">
-                    Our comprehensive toolkit provides step-by-step guidance,
-                    practical resources, and proven strategies to help you
-                    launch and sustain successful Co-Creating Our City projects
-                    in your community.
+                    Explore the Co-Creating Our City toolkit and learn how to
+                    involve young people and decision-makers in shaping your
+                    city. Access practical steps, tips, and resources to plan,
+                    run, and strengthen your project and turn youth ideas into
+                    real, tangible impact in your city or community.
                 </p>
             </div>
 
@@ -125,7 +84,7 @@ const selectedModuleIndex = ref(0);
                 <!-- Left Sidebar Navigation -->
                 <nav class="w-80 shrink-0">
                     <ul
-                        class="space-y-2! sticky top-8 p-2! bg-gray-100 rounded-2xl"
+                        class="space-y-2! sticky top-8 p-2! bg-white rounded-2xl"
                     >
                         <li v-for="(module, index) in modules" :key="module.id">
                             <button
@@ -133,13 +92,13 @@ const selectedModuleIndex = ref(0);
                                 :class="[
                                     'w-full text-left px-4! py-2! rounded-lg transition-all flex items-start gap-3',
                                     selectedModuleIndex === index
-                                        ? 'bg-gray-600! text-white! '
-                                        : 'bg-gray-100! text-slate-700 hover:bg-slate-50 border border-slate-200',
+                                        ? 'bg-dpart-purple-light! text-white! '
+                                        : 'bg-white! text-dpart-purple-dark! hover:bg-slate-50 border border-slate-200',
                                 ]"
                             >
                                 <div class="flex-1">
                                     <div
-                                        class="font-semibold text-sm leading-tight"
+                                        class="font-semibold! text-sm! leading-tight"
                                     >
                                         {{ module.title }}
                                     </div>
@@ -152,52 +111,18 @@ const selectedModuleIndex = ref(0);
                 <!-- Right Content Box -->
                 <Transition name="fade" mode="out-in">
                     <div :key="selectedModuleIndex">
-                        <div class="flex-1 p-6 bg-gray-100 rounded-2xl w-full">
-                            <div
-                                class="flex flex-col justify-center gap-4 mb-2"
+                        <div class="flex-1 p-6 bg-white rounded-2xl w-full">
+                            <h3
+                                class="text-2xl! font-bold! text-dpart-purple-dark mb-4!"
                             >
-                                <!-- <div
-                                    class="w-14 h-14 rounded-lg bg-purple-100 flex items-center justify-center"
-                                >
-                                    <component
-                                        :is="modules[selectedModuleIndex].icon"
-                                        :size="28"
-                                        :stroke-width="2"
-                                        class="text-purple-700"
-                                    />
-                                </div> -->
-                                <div>
-                                    <h3
-                                        class="text-2xl! font-bold! text-gray-900"
-                                    >
-                                        {{ modules[selectedModuleIndex].title }}
-                                    </h3>
-                                </div>
-                            </div>
+                                {{ modules[selectedModuleIndex].title }}
+                            </h3>
 
-                            <p class="text-slate-700 text-lg font-medium mb-6!">
-                                {{ modules[selectedModuleIndex].intro }}
+                            <p
+                                class="text-dpart-purple-dark text-base! leading-relaxed mb-6!"
+                            >
+                                {{ modules[selectedModuleIndex].description }}
                             </p>
-
-                            <h4
-                                class="font-semibold! text-sm text-gray-900 underline mb-2!"
-                            >
-                                You'll discover
-                            </h4>
-                            <ul class="space-y-2 text-slate-600 mb-6!">
-                                <li
-                                    v-for="(bullet, idx) in modules[
-                                        selectedModuleIndex
-                                    ].bullets"
-                                    :key="idx"
-                                    class="flex items-start gap-2"
-                                >
-                                    <span class="text-purple-600 mt-0.5"
-                                        >•</span
-                                    >
-                                    <span>{{ bullet }}</span>
-                                </li>
-                            </ul>
 
                             <CustomButton
                                 label="Explore This Module"
@@ -226,34 +151,46 @@ const selectedModuleIndex = ref(0);
                             :key="module.id"
                             class="flex h-auto"
                         >
-                            <PanelCard
-                                :label="`Module ${index + 1}`"
-                                :heading="module.title"
-                                :bullets="[module.intro, ...module.bullets]"
-                                :index="index"
+                            <div
+                                class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 w-full flex flex-col justify-between"
                             >
-                                <div class="px-4 mb-4">
-                                    <CustomButton
-                                        label="Explore This Module"
-                                        :as="'a'"
-                                        :href="module.link"
-                                        size="lg"
-                                        variant="default"
-                                        class="w-full"
-                                    />
+                                <div class="">
+                                    <div
+                                        class="text-xs font-semibold text-dpart-purple-light! uppercase tracking-wide mb-2"
+                                    >
+                                        Module {{ index + 1 }}
+                                    </div>
+                                    <h3
+                                        class="text-xl! font-bold! text-dpart-purple-dark! mb-4!"
+                                    >
+                                        {{ module.title }}
+                                    </h3>
+                                    <p
+                                        class="text-dpart-purple-dark! leading-relaxed mb-6!"
+                                    >
+                                        {{ module.description }}
+                                    </p>
                                 </div>
-                            </PanelCard>
+                                <CustomButton
+                                    label="Explore This Module"
+                                    :as="'a'"
+                                    :href="module.link"
+                                    size="lg"
+                                    variant="default"
+                                    class=""
+                                />
+                            </div>
                         </CarouselItem>
                     </CarouselContent>
-                    <div
-                        class="w-full justify-between flex bg-gray-100 rounded-xl translate-y-2 border border-gray-100"
-                    >
-                        <CarouselPrevious
-                            class="relative translate-x-0 translate-y-0 left-0 top-0 rounded-xl border-gray-300 size-9"
-                        />
-                        <CarouselNext
-                            class="relative translate-x-0 translate-y-0 right-0 top-0 rounded-xl border-gray-300 size-9"
-                        />
+                    <div class="flex justify-end">
+                        <div class="flex rounded-xl translate-y-2 gap-1 p-px">
+                            <CarouselPrevious
+                                class="relative translate-x-0 translate-y-0 left-0 top-0 rounded-xl bg-dpart-purple-dark text-white! border-none size-9"
+                            />
+                            <CarouselNext
+                                class="relative translate-x-0 translate-y-0 right-0 top-0 rounded-xl bg-dpart-purple-dark text-white! border-none size-9"
+                            />
+                        </div>
                     </div>
                 </Carousel>
             </div>

@@ -12,7 +12,7 @@ const props = defineProps<Props>();
 
 <template>
     <div
-        class="hover:border-slate-300 transition-colors rounded-2xl bg-gray-100 relative"
+        class="hover:border-slate-300 transition-colors rounded-2xl bg-white drop-shadow-md relative"
     >
         <!-- Number Badge - only shown if index is provided -->
         <div
@@ -24,15 +24,15 @@ const props = defineProps<Props>();
 
         <!-- Label -->
         <div
-            class="px-4 text-purple-700 pt-4 text-sm font-semibold! rounded-t-xl drop-shadow-2xl"
+            class="px-4 text-dpart-purple-light pt-6 sm:pt-8 text-sm font-semibold! rounded-t-xl drop-shadow-2xl"
         >
             {{ label }}
         </div>
 
         <!-- Content -->
-        <div class="p-4">
+        <div class="p-4 pb-6 sm:pb-8">
             <h3
-                class="text-lg! font-bold! mb-2! mt-0! text-slate-900 pr-2 text-balance!"
+                class="text-lg! font-bold! mb-2! mt-0! text-dpart-purple-dark pr-2 text-balance!"
             >
                 {{ heading }}
             </h3>
@@ -40,7 +40,7 @@ const props = defineProps<Props>();
             <!-- HTML content (original format for ChallengeVision) -->
             <p
                 v-if="content"
-                class="text-slate-700 leading-relaxed mt-0!"
+                class="text-dpart-purple leading-relaxed mt-0!"
                 v-html="content"
             ></p>
 

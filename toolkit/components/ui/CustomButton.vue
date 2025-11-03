@@ -24,7 +24,7 @@ const props = withDefaults(defineProps<Props>(), {
         :href="href"
         :variant="variant"
         :size="size"
-        class="rounded-2xl! group gap-4 border-purple-700! border text-purple-700! pr-1 font-semibold!"
+        class="rounded-2xl! group gap-4 border-gold! border-dashed border text-dpart-purple-dark! pr-1 font-semibold!"
     >
         <!-- Default slot for custom icon (optional) -->
         <slot>
@@ -34,7 +34,7 @@ const props = withDefaults(defineProps<Props>(), {
 
         <!-- Right chevron icon (can be hidden with showIcon prop) -->
         <div
-            class="rounded-[14px] bg-purple-700 text-white size-9 flex items-center justify-center"
+            class="rounded-[14px] text-dpart-purple-dark flex items-center justify-center"
         >
             <ChevronRight
                 v-if="showIcon"
