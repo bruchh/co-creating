@@ -1,5 +1,22 @@
 @import "tailwindcss";
 
+/* Custom Font */
+@font-face {
+    font-family: "Aktiv Grotesk";
+    src: url("/AktivGrotesk_Rg.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Aktiv Grotesk";
+    src: url("/AktivGrotesk.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
 @theme {
     /* Purple palette - custom */
     --color-purple-50: oklch(0.98 0.02 290.35);
@@ -176,4 +193,8 @@
 
 .DocSearch {
     --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+body {
+    font-family: "Aktiv Grotesk", sans-serif;
 }
