@@ -1,6 +1,6 @@
 
 <script setup>
-import Quote from '../../../components/ui/Quote.vue'
+import Quote from '../../components/ui/Quote.vue'
 </script>
 # Bringing young people and city leaders together
 
