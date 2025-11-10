@@ -15,7 +15,7 @@ The closing event is aimed at a wider group of people than those who have been i
 Co-researchers should be involved in designing the program of the event. The program should offer co-researchers the opportunity to present their findings from the project, for example in a slideshow or a gallery walk, and opportunities to discuss findings with stakeholders and the general public, for example through feedback opportunities during the gallery walk or in a fishbowl discussion. In addition, participatory workshops that discuss aspects of the findings in more detail can strengthen the involvement of the attending stakeholders and general public.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../../components/ui/Quote.vue'
 </script>
 
 <Quote

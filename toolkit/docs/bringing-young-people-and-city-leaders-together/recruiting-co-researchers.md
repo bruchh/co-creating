@@ -26,7 +26,7 @@ To identify what types of young people you want to recruit, it can be helpful to
 - The structures and opportunities for youth engagement that already exist, e.g., youth or student councils or local civic engagement organizations. In Düsseldorf, the local youth council nominated participants. In Charlotte, contact was made with Communities in Schools, a national organization designed to provide resources to underserved young people, and with local civic engagement organizations and city government organizations working with youth.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../../components/ui/Quote.vue'
 </script>
 
 <Quote

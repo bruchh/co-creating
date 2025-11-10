@@ -7,7 +7,7 @@ However, despite these intentions, young people and city decision-makers can mis
 Young people want to contribute meaningfully to civic life if given the opportunity, but they can lack incentives and suitable pathways to do so. Cities, on the other hand, can lack efficient ways to engage in productive exchange with young residents. Traditional youth participation mechanisms (e.g., youth councils) can be experienced as tokenistic or disconnected from real decision-making.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../components/ui/Quote.vue'
 </script>
 
 <Quote

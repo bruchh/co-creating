@@ -13,7 +13,7 @@ Young people and city officials engage in workshops and work as a team of co-res
 - establish and increase trust between young residents and city institutions.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../components/ui/Quote.vue'
 import PilotVideo from '../../components/landing/PilotVideo.vue'
 </script>
 

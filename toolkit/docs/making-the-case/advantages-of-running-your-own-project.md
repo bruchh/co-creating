@@ -27,7 +27,7 @@ A theory of change is a strategic tool that outlines how and why a project like 
 | | The city will be better equipped to institutionalize youth participation beyond one-off projects, creating a change in the culture of how youth engagement is viewed and practiced |
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../components/ui/Quote.vue'
 </script>
 
 <Quote

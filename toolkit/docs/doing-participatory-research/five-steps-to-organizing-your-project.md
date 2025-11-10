@@ -85,7 +85,7 @@ To enable genuine participation and fit the circumstances and schedules of the c
 It is essential that every step of the data collection remains transparent and traceable, allowing all participants to follow and understand which decisions were made and why. This approach ensures diverse contributions to the data you collect, builds trust in the validity of the data, and encourages shared ownership of the findings.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../../components/ui/Quote.vue'
 </script>
 
 <Quote

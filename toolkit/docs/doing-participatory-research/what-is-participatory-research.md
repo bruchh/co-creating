@@ -40,7 +40,7 @@ Co-creation inspires new research agendas by raising new questions and including
 For communities, co-creation and Citizen Science foster community learning. The approach empowers community members, in particular young people, to take part in research and exposes them to new and diverse points of view that exist within the community. By involving community members from the beginning, co-creation encourages research that is relevant and transparent and promotes the effective transfer of research findings into practice. It democratizes the meaning and practice of research, strengthening both communities and the outcomes they can expect from institutions.
 
 <script setup>
-import Quote from '@/components/ui/Quote.vue'
+import Quote from '../../../components/ui/Quote.vue'
 </script>
 
 <Quote
