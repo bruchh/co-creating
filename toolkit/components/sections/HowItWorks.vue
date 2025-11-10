@@ -1,16 +1,16 @@
 <script setup lang="ts">
-import SectionHeader from "@/components/ui/SectionHeader.vue";
-import SectionH2 from "@/components/ui/SectionH2.vue";
-import ApproachComparison from "@/components/landing/ApproachComparison.vue";
-import Quote from "@/components/ui/Quote.vue";
+import SectionHeader from "../ui/SectionHeader.vue";
+import SectionH2 from "../ui/SectionH2.vue";
+import ApproachComparison from "../landing/ApproachComparison.vue";
+import Quote from "../ui/Quote.vue";
 import {
     Carousel,
     CarouselContent,
     CarouselItem,
     CarouselNext,
     CarouselPrevious,
-} from "@/components/ui/carousel";
-import { cn } from "@/lib/utils";
+} from "../ui/carousel";
+import { cn } from "../../lib/utils";
 
 interface QuoteItem {
     quote: string;

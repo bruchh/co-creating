@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import SectionHeader from "@/components/ui/SectionHeader.vue";
-import { cn } from "@/lib/utils";
+import SectionHeader from "../ui/SectionHeader.vue";
+import { cn } from "../../lib/utils";
 
 interface Benefit {
     text: string;

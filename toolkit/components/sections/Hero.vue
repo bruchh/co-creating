@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import CustomButton from "@/components/ui/CustomButton.vue";
+import CustomButton from "../ui/CustomButton.vue";
 import PilotVideo from "../landing/PilotVideo.vue";
 </script>
 

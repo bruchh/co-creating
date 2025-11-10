@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import SectionHeader from "@/components/ui/SectionHeader.vue";
-import PilotVideo from "@/components/landing/PilotVideo.vue";
-import PilotKeyFacts from "@/components/landing/PilotKeyFacts.vue";
-import PilotResearchDesign from "@/components/landing/PilotResearchDesign.vue";
-import PilotImpact from "@/components/landing/PilotImpact.vue";
-import PilotImageCarousel from "@/components/landing/PilotImageCarousel.vue";
-import SectionH2 from "@/components/ui/SectionH2.vue";
-import Quote from "@/components/ui/Quote.vue";
+import SectionHeader from "../ui/SectionHeader.vue";
+import PilotVideo from "../landing/PilotVideo.vue";
+import PilotKeyFacts from "../landing/PilotKeyFacts.vue";
+import PilotResearchDesign from "../landing/PilotResearchDesign.vue";
+import PilotImpact from "../landing/PilotImpact.vue";
+import PilotImageCarousel from "../landing/PilotImageCarousel.vue";
+import SectionH2 from "../ui/SectionH2.vue";
+import Quote from "../ui/Quote.vue";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import {
     Carousel,
@@ -14,8 +14,8 @@ import {
     CarouselItem,
     CarouselNext,
     CarouselPrevious,
-} from "@/components/ui/carousel";
-import { cn } from "@/lib/utils";
+} from "../ui/carousel";
+import { cn } from "../../lib/utils";
 
 interface Quote {
     text: string;

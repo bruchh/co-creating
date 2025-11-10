@@ -1,15 +1,15 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import SectionHeader from "@/components/ui/SectionHeader.vue";
-import SectionH2 from "@/components/ui/SectionH2.vue";
+import SectionHeader from "../ui/SectionHeader.vue";
+import SectionH2 from "../ui/SectionH2.vue";
 import {
     Carousel,
     CarouselContent,
     CarouselItem,
     CarouselNext,
     CarouselPrevious,
-} from "@/components/ui/carousel";
-import CustomButton from "@/components/ui/CustomButton.vue";
+} from "../ui/carousel";
+import CustomButton from "../ui/CustomButton.vue";
 
 interface Module {
     id: string;

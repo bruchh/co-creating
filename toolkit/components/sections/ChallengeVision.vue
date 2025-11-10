@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import PanelCard from "@/components/landing/PanelCard.vue";
-import SectionHeader from "@/components/ui/SectionHeader.vue";
-import SectionH2 from "@/components/ui/SectionH2.vue";
+import PanelCard from "../landing/PanelCard.vue";
+import SectionHeader from "../ui/SectionHeader.vue";
+import SectionH2 from "../ui/SectionH2.vue";
 import {
     Carousel,
     CarouselContent,

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { WithClassAsProps } from "./interface";
-import { cn } from "@/lib/utils";
+import { cn } from "../../../lib/utils";
 import { useCarousel } from "./useCarousel";
 
 // @ts-ignore - class is a valid Vue prop despite being a TS keyword
