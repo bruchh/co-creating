@@ -116,6 +116,7 @@
     --vp-c-tip-2: var(--color-dpart-purple);
     --vp-c-tip-3: var(--color-dpart-purple-light);
     --vp-c-tip-soft: var(--color-dpart-light-blue);
+    --vp-c-text-1: var(--color-dpart-purple-dark);
 
     --vp-c-warning-1: var(--color-gold-dark);
     --vp-c-warning-2: var(--color-gold);
@@ -126,6 +127,27 @@
     --vp-c-danger-2: var(--color-crimson);
     --vp-c-danger-3: var(--color-crimson);
     --vp-c-danger-soft: var(--color-salmon);
+
+    .vp-doc h2 {
+        border-top: none !important;
+    }
+
+    .vp-doc th {
+        color: var(--color-dpart-purple-dark);
+        background-color: var(--color-dpart-purple-rose);
+    }
+
+    .vp-doc tr:nth-child(2n) {
+        background-color: var(--color-dpart-grey);
+    }
+
+    .custom-block.tip {
+        background-color: var(--color-yellow-light);
+    }
+
+    .VPSidebar {
+        background: var(--color-dpart-grey);
+    }
 }
 
 /**

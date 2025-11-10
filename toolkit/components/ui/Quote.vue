@@ -10,7 +10,7 @@ defineProps<{
 <template>
     <div
         :class="[
-            'relative bg-[#F4F4F4] p-8 h-full pl-12 rounded-xl',
+            'relative bg-[#F4F4F4] p-8 h-full pl-12 rounded-xl mb-1',
             $props.class,
         ]"
     >
@@ -24,15 +24,17 @@ defineProps<{
         <!-- Quote Content -->
         <div class="relative z-10 pl-8 h-full flex flex-col justify-between">
             <p
-                class="text-base! font-regular! text-dpart-purple! mb-4 text-balance"
+                class="text-base! font-regular! text-dpart-purple! mb-4! mt-0! text-balance"
             >
                 {{ quote }}
             </p>
 
             <!-- Attribution -->
             <div class="mt-4">
-                <p class="font-bold text-dpart-purple-dark!">{{ person }}</p>
-                <p class="italic font-light text-dpart-purple!">
+                <p class="font-bold text-dpart-purple-dark! my-0!">
+                    {{ person }}
+                </p>
+                <p class="italic font-light text-dpart-purple! my-0!">
                     {{ position }}
                 </p>
             </div>
