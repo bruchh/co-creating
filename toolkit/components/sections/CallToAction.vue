@@ -57,7 +57,7 @@ const partners: Partner[] = [
                 <div class="grid md:grid-cols-2 gap-4 max-w-2xl mx-auto mb-16">
                     <!-- Primary CTA -->
                     <a
-                        href="/docs/guide/getting-started"
+                        href="/docs/introduction/what-is-co-creating-our-city"
                         class="group bg-salmon rounded-xl p-6 transition-all hover:shadow-lg"
                     >
                         <Icon name="data-3" :size="56" class="mb-2" />

@@ -16,7 +16,9 @@ import { Button } from "../ui/button";
                 class="bg-white text-blue-600 hover:bg-blue-50"
                 as-child
             >
-                <a href="/docs/guide/getting-started">View Documentation</a>
+                <a href="/docs/introduction/what-is-co-creating-our-city"
+                    >View Documentation</a
+                >
             </Button>
         </div>
     </section>

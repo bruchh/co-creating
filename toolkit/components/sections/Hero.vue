@@ -24,14 +24,14 @@ import PilotVideo from "../landing/PilotVideo.vue";
             <div class="">
                 <CustomButton
                     label="Discover The Toolkit"
-                    href="/docs/guide/getting-started"
+                    href="/docs/introduction/what-is-co-creating-our-city"
                     size="lg"
                     variant="default"
                     class="md:hidden"
                 />
                 <CustomButton
                     label="Discover The Co-Creating Our City Toolkit"
-                    href="/docs/guide/getting-started"
+                    href="/docs/introduction/what-is-co-creating-our-city"
                     size="lg"
                     variant="default"
                     class="max-md:hidden"
