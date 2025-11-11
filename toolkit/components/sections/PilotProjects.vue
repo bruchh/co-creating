@@ -52,7 +52,7 @@ const projects: Project[] = [
         city: "Charlotte",
         description:
             "Young people and city officials in Charlotte collaborated to explore youth engagement through citizen science, creating actionable insights for more inclusive local governance.",
-        videoUrl: "", // No video yet
+        videoUrl: "https://youtu.be/O6eBpyZlkNA", // No video yet
         images: [
             "/images/atlanta/StillsUSA1.webp",
             "/images/atlanta/StillsUSA2.webp",
@@ -67,7 +67,7 @@ const projects: Project[] = [
             },
             {
                 text: "I always thought I have to do this or I'll create change when I grow up. And then coming here and doing this, I realized, oh, I can do change. Like right now, I don't have to wait.",
-                author: "Mauricio Martinez Aguierre",
+                author: "Mauricio Martinez Aguirre",
                 role: "Citizen Scientist, Charlotte",
                 type: "youth",
             },

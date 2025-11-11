@@ -238,7 +238,7 @@ Ensure your project creates real change by sharing insights effectively. This mo
 
 > **Megha Mittal, Citizen scientist from Charlotte:** We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-creating our city' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.
 
-> **Mauricio Martinez Aguierre, Citizen Scientist from Charlotte:** I always thought I have to do this or I'll create change when I grow up. And then coming here and doing this, I realized, oh, I can do change. Like right now, I don't have to wait.
+> **Mauricio Martinez Aguirre, Citizen Scientist from Charlotte:** I always thought I have to do this or I'll create change when I grow up. And then coming here and doing this, I realized, oh, I can do change. Like right now, I don't have to wait.
 
 **Projektbild**
 

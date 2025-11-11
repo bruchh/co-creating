@@ -38,6 +38,9 @@ import PilotVideo from "../landing/PilotVideo.vue";
                 />
             </div>
         </div>
-        <PilotVideo city="Co-Creating Our City" />
+        <PilotVideo
+            city="Co-Creating Our City"
+            video-url="https://youtu.be/6JbWA2Gsl0I"
+        />
     </section>
 </template>

@@ -11,6 +11,12 @@ interface Partner {
 
 const partners: Partner[] = [
     {
+        name: "Gambrell Foundation",
+        logo: "/Orientation=Vertical, Colorway=Cool Gradient, Color Mode=Light Mode.png",
+        url: "https://gambrellfoundation.org/",
+        scale: 1.6,
+    },
+    {
         name: "d|part",
         logo: "/design 1_lila.png",
         url: "https://www.dpart.org",
@@ -21,12 +27,6 @@ const partners: Partner[] = [
         logo: "/GMF No Periods Black Mono.png",
         url: "https://www.gmfus.org/",
         scale: 1,
-    },
-    {
-        name: "Gambrell Foundation",
-        logo: "/Orientation=Vertical, Colorway=Cool Gradient, Color Mode=Light Mode.png",
-        url: "https://gambrellfoundation.org/",
-        scale: 1.6,
     },
     {
         name: "SCI:MOVE",
@@ -96,7 +96,7 @@ const partners: Partner[] = [
             </div>
 
             <!-- Partner Logos -->
-            <div class="max-w-3xl mx-auto">
+            <div class="max-w-4xl mx-auto">
                 <p class="text-center text-xs! text-slate-500 mb-6! md:mb-8!">
                     In partnership with
                 </p>
@@ -109,7 +109,7 @@ const partners: Partner[] = [
                         :href="partner.url"
                         target="_blank"
                         rel="noopener noreferrer"
-                        class="grayscale hover:grayscale-0 opacity-60 hover:opacity-100 transition-all"
+                        class="transition-all hover:scale-105"
                         :aria-label="`Visit ${partner.name} website`"
                     >
                         <img
