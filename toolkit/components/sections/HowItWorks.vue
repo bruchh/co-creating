@@ -11,6 +11,7 @@ import {
     CarouselPrevious,
 } from "../ui/carousel";
 import { cn } from "../../lib/utils";
+import infographicImage from "../../public/images/Infografik_dpart_5_steps.png";
 
 interface QuoteItem {
     quote: string;
@@ -123,7 +124,7 @@ const quotes: QuoteItem[] = [
             <!-- Infographic - Full width, centered -->
             <div class="w-full mx-auto flex">
                 <img
-                    src="/images/Infografik_dpart_5_steps.png"
+                    :src="infographicImage"
                     alt="5 Steps of Co-Creating Our City Process"
                     width="4961"
                     height="2894"

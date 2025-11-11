@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import SectionHeader from "../ui/SectionHeader.vue";
 import { cn } from "../../lib/utils";
+import workshopImage from "../../public/images/atlanta/StillsUSA3.webp";
 
 interface Benefit {
     text: string;
@@ -54,7 +55,7 @@ const benefitCategories: BenefitCategory[] = [
                 <!-- Image - Takes ~45% on desktop -->
                 <div class="md:col-span-5 md:h-full flex">
                     <img
-                        src="/images/atlanta/StillsUSA3.webp"
+                        :src="workshopImage"
                         alt="Young people collaborating in workshop"
                         class="w-full h-full rounded-2xl shadow-lg object-cover md:-translate-x-8"
                     />
