@@ -24,35 +24,35 @@ const modules: Module[] = [
         title: "Making the Case for 'Co-Creating Our City'",
         description:
             "Discover why Co-Creating Our City projects are essential for meaningful youth engagement. Learn how they boost youth participation, foster collaboration, and create more inclusive communities. See how these projects empower both young people and decision-makers to make real impact.",
-        link: "/docs/modules/making-the-case",
+        link: "/docs/making-the-case/why-we-need-co-creating-our-city",
     },
     {
         id: "setting-up",
         title: "Setting Up Your Own Project",
         description:
             "Build a strong foundation for your project with practical guidance on planning and budgeting. Find out how to set goals, plan, fund, and assemble the right team and partnerships. Ensure your project runs smoothly and delivers meaningful results.",
-        link: "/docs/modules/setting-up",
+        link: "/docs/setting-up-your-project",
     },
     {
         id: "bringing-together",
         title: "Bringing Young People and City Leaders Together",
         description:
             "Turn collaboration into real action. Learn how to recruit, motivate, and meaningfully connect young people and decision-makers as co-researchers, how to overcome challenges, and design solutions that reflect real youth perspectives.",
-        link: "/docs/modules/bringing-together",
+        link: "/docs/bringing-young-people-and-city-leaders-together/",
     },
     {
         id: "participatory-research",
         title: "Doing Participatory Research",
         description:
             "Learn to plan, facilitate, and sustain participatory research that combines youth insight and policy expertise. Access step-by-step guidance, ready-to-use materials, and tips to turn research into actionable solutions for your community.",
-        link: "/docs/modules/participatory-research",
+        link: "/docs/doing-participatory-research",
     },
     {
         id: "achieving-impact",
         title: "Achieving Impact",
         description:
             "Make your findings count. Discover how to share results with youth and the wider public, while motivating city leaders to act on the findings. Translate research into policies, programs, and lasting change that strengthen youth engagement in your community.",
-        link: "/docs/modules/achieving-impact",
+        link: "/docs/achieving-impact/",
     },
 ];
 
