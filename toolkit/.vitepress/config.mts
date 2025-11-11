@@ -25,7 +25,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       {
         text: "Toolkit",
-        link: "/docs/making-the-case/why-we-need-co-creating-our-city",
+        link: "/docs/introduction/what-is-co-creating-our-city.html",
       },
     ],
 
