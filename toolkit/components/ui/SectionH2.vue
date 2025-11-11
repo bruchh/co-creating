@@ -7,7 +7,7 @@ defineProps<{
 <template>
     <h2
         :class="[
-            'text-3xl! md:text-4xl! font-bold! text-d mb-6! text-dpart-purple-dark',
+            'text-3xl! md:text-4xl! font-bold! text-d mb-6! text-dpart-purple-dark!',
             $props.class,
         ]"
     >

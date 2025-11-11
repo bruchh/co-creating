@@ -42,7 +42,10 @@ const quotes: QuoteItem[] = [
             <SectionHeader title="How It Works" centered />
             <!-- Main heading and description -->
             <div class="max-w-4xl mb-12 md:mb-16 md:text-center! md:mx-auto">
-                <SectionH2> Research with the Community, Not on It </SectionH2>
+                <SectionH2>
+                    Research <span class="underline">with</span> the Community,
+                    Not <span class="underline">on</span> It
+                </SectionH2>
                 <p class="text-lg text-slate-700 leading-relaxed">
                     Co-Creating Our City brings together young people and local
                     leaders through

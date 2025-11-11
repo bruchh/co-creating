@@ -12,10 +12,10 @@ const props = withDefaults(defineProps<Props>(), {
 <template>
     <header
         :class="[
-            'py-2 px-4 border border-gold border-dashed rounded-xl  text-dpart-purple flex max-w-fit mb-8',
+            'py-2 pt-2.5 px-4 border border-gold border-dashed rounded-xl  text-dpart-purple flex max-w-fit mb-8',
             props.centered && 'sm:mx-auto',
         ]"
     >
-        <h2 class="text-sm! font-bold!">{{ title }}</h2>
+        <h2 class="text-sm! font-bold! leading-none!">{{ title }}</h2>
     </header>
 </template>
