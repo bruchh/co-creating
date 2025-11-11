@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import quoteIcon from "../../public/quote.svg";
+
 defineProps<{
     quote: string;
     person: string;
@@ -16,7 +18,7 @@ defineProps<{
     >
         <!-- Quote SVG Icon -->
         <img
-            src="/quote.svg"
+            :src="quoteIcon"
             alt=""
             class="absolute top-0 left-4 size-16 opacity-50"
         />
