@@ -7,7 +7,7 @@ import PilotImpact from "../landing/PilotImpact.vue";
 import PilotImageCarousel from "../landing/PilotImageCarousel.vue";
 import SectionH2 from "../ui/SectionH2.vue";
 import Quote from "../ui/Quote.vue";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
 import {
     Carousel,
     CarouselContent,

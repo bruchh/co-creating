@@ -8,9 +8,9 @@ import {
     CarouselItem,
     CarouselNext,
     CarouselPrevious,
-} from "@/components/ui/carousel";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import Quote from "@/components/ui/Quote.vue";
+} from "../ui/carousel";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
+import Quote from "../ui/Quote.vue";
 
 interface Panel {
     label: string;
