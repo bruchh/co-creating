@@ -8,9 +8,8 @@ There are five key steps to the research process using Citizen Science and co-cr
 4. **Analyze data:** Train and involve co-researchers in the analysis of data.
 5. **Disseminate and use findings:** Distill key recommendations and choose accessible forms of presentation and communication that suit your target audiences.
 
-::: warning TODO
-[Visualization of the 5 steps about here]
-:::
+
+<img width="4961" height="2894" class="my-4 sm:my-8" src="/five-steps.png">
 
 Follow these steps to successfully run your own 'Co-creating our city' project and consider the details on each of these steps in more detail: specific goals, tasks, and practical considerations.
 
@@ -72,9 +71,8 @@ To enable effective participation, it may be necessary to train co-researchers i
 
 In social science, many projects use mixed methods approaches. This way, different methods can complement each other and solve different parts of the research problem, as in this project where three methods have been combined.
 
-::: warning TODO
-[Graphic for Step 2 methodological approach here]
-:::
+
+<img width="3780" height="2894" class="my-4 sm:my-8" src="/info-2.png">
 
 ## Step 3: Collect data
 
