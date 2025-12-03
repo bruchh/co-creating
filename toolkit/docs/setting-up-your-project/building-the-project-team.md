@@ -18,7 +18,7 @@ Your project team does not need to be big, but it needs to have sufficient capac
 
 **If you do not possess all these skills**, consider adding team members who can support you with either project management, workshop facilitation, communication, or the research process and data analysis.
 
-::: info Case study: Team set-up in 'Co-creating our city' pilot projects in Charlotte and Düsseldorf
+::: info Case study: Team set-up in 'Co-Creating Our City' pilot projects in Charlotte and Düsseldorf
 
 For the pilot project in **Düsseldorf**, SCI:MOVE and d|part took on all project management and communication with city partners. The team designed and conducted the workshops and research work. The City of Düsseldorf and the Jugendring Düsseldorf provided staff time to support the recruitment of participants and coordinate workshops and events. In addition, the Jugendring Düsseldorf provided staff time for the preparation of workshops as well as rooms to meet.
 

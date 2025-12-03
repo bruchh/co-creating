@@ -54,7 +54,7 @@ const partners: Partner[] = [
                 </p>
 
                 <!-- CTA Buttons -->
-                <div class="grid md:grid-cols-2 gap-4 max-w-2xl mx-auto mb-16">
+                <div class="grid md:grid-cols-3 gap-4 max-w-3xl mx-auto mb-16">
                     <!-- Primary CTA -->
                     <a
                         href="/docs/introduction/what-is-co-creating-our-city"
@@ -91,6 +91,24 @@ const partners: Partner[] = [
                             Contact us with questions or tell us about your
                             project
                         </p>
+                    </a>
+                    <!-- Tookit Download -->
+                    <a
+                        href="/documents/Toolkit%20Co-Creating%20Our%20City%20[pdf].pdf"
+                        class="group bg-dpart-light-blue rounded-xl p-6 transition-all hover:shadow-lg"
+                    >
+                        <Icon name="tools-3" :size="56" class="mb-2" />
+                        <div class="flex items-center justify-between mb-2">
+                            <h3
+                                class="text-xl! font-bold! text-dpart-purple-dark!"
+                            >
+                                Download The Co-Creating Our City Toolkit
+                            </h3>
+                        </div>
+                        <!-- <p class="text-dpart-purple-dark! text-sm">
+                            Contact us with questions or tell us about your
+                            project
+                        </p> -->
                     </a>
                 </div>
             </div>

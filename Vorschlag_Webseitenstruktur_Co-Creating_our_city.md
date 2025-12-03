@@ -9,7 +9,7 @@
 - **V1:** Co-Creating Our City: Youth and Decision-Makers Shaping Participation and Change
 - **V2:** Co-Creating Our City: Researching, Collaborating, and Strengthening Youth Participation
 
-**Subheading:** Definition of "Co-creating our city" in one sentence
+**Subheading:** Definition of "Co-Creating Our City" in one sentence
 
 - **V1:** Co-Creating Our City is a participatory project that brings together local young people and decision-makers to shape opportunities for youth engagement in cities and municipalities.
 - **V2:** Co-Creating Our City uses a participatory approach that sees young people and local decision-makers collaborate to research, design, and implement solutions for inclusive and vibrant communities.
@@ -103,7 +103,7 @@ https://thepoliticsproject.org.uk/impact/2023-25-digital-dialogue-wales/theory-o
 
 5. **Disseminate and use findings:** Distill key recommendations and choose accessible forms of presentation and communication that suit your target audiences.
 
-**Optional: Principles of 'Co-creating our city' projects**
+**Optional: Principles of 'Co-Creating Our City' projects**
 
 - Co-creating Our City projects actively involve members of the studied community and local decision-makers in the process of generating new knowledge about, or understanding of, the needs of their communities.
 
@@ -144,13 +144,13 @@ The toolkit is for city staff, youth engagement practitioners, youth workers, lo
 
 A Co-creating Our City project has benefits for young people and cities, in the short and long term.
 
-**For young people:**
+**For Young People:**
 
 - Promotes civic engagement and trust in city institutions and inspires young people to feel more connected to their city
 - Increases democratic literacy, understanding, and efficacy: belief in being able to shape public life and policy
 - Develops scientific literacy and leadership and communication skills
 
-**For cities and communities:**
+**For Cities and Communities:**
 
 - Creates opportunity to gain deeper insight into youth needs and experiences and to discover new intergenerational pathways for youth engagement within the city
 - Generates collaborative solutions that tend to have greater longevity and rates of success, as they incorporate both lived experience and practical considerations
@@ -174,11 +174,11 @@ A Co-creating Our City project has benefits for young people and cities, in the 
 
 **Presentation of the modules:**
 
-#### Making the case for 'Co-creating our city'
+#### Making the case for 'Co-Creating Our City'
 
 Discover why Co-Creating Our City projects are essential for meaningful youth engagement. This module explains the benefits of running your own project, including stronger youth participation, collaborative problem-solving, and the creation of more inclusive, responsive cities. Learn how these projects empower both young people and decision-makers to make real impact in their communities.
 
-#### Setting up your own 'Co-creating our city' project
+#### Setting up your own 'Co-Creating Our City' project
 
 Set your project up for success with clear goals, a strong team, and solid partnerships. This module offers practical guidance on planning, funding, and building relationships with local organizations and city authorities. Learn how to establish the foundations that ensure your project runs smoothly and delivers meaningful outcomes.
 
@@ -236,7 +236,7 @@ Ensure your project creates real change by sharing insights effectively. This mo
 
 > **Dr. Raquishela Stewart, City of Charlotte:** I'm learning things that I did not know as far as how the young people want to be communicated with, some of the things that they're interested in. So it's going to allow us to take that information back and to reframe our programming, so that it is more suitable to what the youth want and we can combine that with what they need.
 
-> **Megha Mittal, Citizen scientist from Charlotte:** We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-creating our city' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.
+> **Megha Mittal, Citizen scientist from Charlotte:** We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-Creating Our City' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.
 
 > **Mauricio Martinez Aguirre, Citizen Scientist from Charlotte:** I always thought I have to do this or I'll create change when I grow up. And then coming here and doing this, I realized, oh, I can do change. Like right now, I don't have to wait.
 
@@ -290,7 +290,7 @@ Ensure your project creates real change by sharing insights effectively. This mo
 
 **Sekundärer CTA:** "Mehr über d|part erfahren" → Link zur d|part-Website
 
-*LG: Besser: Contact us with questions or to let us know of your 'Co-creating our city' project at citiescomms@gmfus.org*
+*LG: Besser: Contact us with questions or to let us know of your 'Co-Creating Our City' project at citiescomms@gmfus.org*
 
 **Partner-Logos:** d|part, GMF, SCI:MOVE und Gambrell
 

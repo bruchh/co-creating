@@ -1,6 +1,6 @@
 # Recruiting co-researchers
 
-For co-researchers, participation in a 'Co-creating our city' project can be demanding and time-consuming, but also very rewarding. To make the recruitment process fair and transparent and tailor it to the strengths and interests of your future co-researchers, it is important to:
+For co-researchers, participation in a 'Co-Creating Our City' project can be demanding and time-consuming, but also very rewarding. To make the recruitment process fair and transparent and tailor it to the strengths and interests of your future co-researchers, it is important to:
 
 - Identify relevant target groups whose insights can enrich the project.
 - Engage multipliers and gatekeepers early on to build networks and trust.
@@ -41,7 +41,7 @@ import Quote from '../../components/ui/Quote.vue'
   position="Citizen Scientist, Charlotte"
 />
 
-Participation as co-researchers should be open and accessible to all types of young people regardless of their demographic, social, or educational background. It must also be acknowledged that participation in 'Co-creating our city' requires a high level of commitment from participants. You should therefore consider and take note of the motivation participants bring along in the recruitment process. In addition to motivation, factors such as age, gender, place of residence, and type of school may be collected during application.
+Participation as co-researchers should be open and accessible to all types of young people regardless of their demographic, social, or educational background. It must also be acknowledged that participation in 'Co-Creating Our City' requires a high level of commitment from participants. You should therefore consider and take note of the motivation participants bring along in the recruitment process. In addition to motivation, factors such as age, gender, place of residence, and type of school may be collected during application.
 
 If you end up with more applications from potential co-researchers than capacity, you can use this information and background characteristics to select a suitable and diverse group of participants.
 
@@ -51,7 +51,7 @@ To reach young people, it is a good idea to rely on cooperation with established
 
 Information about the project should be phrased and presented in a way that is appropriate for young people, e.g., in concise language, as a visually appealing poster or leaflet. Social media and websites are an important source of information for young people and can be used to distribute recruitment calls, too. To inform young people about the project, find out which social media sites or webpages they know and use. These could be event calendars, micro-influencers in your community, or local blogs.
 
-::: info Case study: Strategies to reach young people used in 'Co-creating our city' pilot project in Düsseldorf
+::: info Case study: Strategies to reach young people used in 'Co-Creating Our City' pilot project in Düsseldorf
 
 |  | Düsseldorf |
 |---|---|
@@ -62,7 +62,7 @@ Information about the project should be phrased and presented in a way that is a
 
 ### Age range
 
-The approach of 'Co-creating our city' is suitable for a wide age range of young people, though educational concepts and communication must be adapted to ages of the young participants you end up working with.
+The approach of 'Co-Creating Our City' is suitable for a wide age range of young people, though educational concepts and communication must be adapted to ages of the young participants you end up working with.
 
 When working with younger co-researchers and those with little prior knowledge of, e.g., social research, local politics, or city governance, it is particularly important to use simple language and to consider keeping workshops and sessions rather short and variable in their format, for example including movement and playful elements that can allow the co-researchers to explore the issue themselves.
 
@@ -93,11 +93,11 @@ You can poll participants on their preference from a pre-set list of options. Ch
 
 ## Recruiting city leaders
 
-One of the project's goals is to facilitate a dialogue between young people and decision-makers and members of the city administration. Involving both young people and city leaders is key for the co-researchers to develop city-specific proposals that are directly actionable. To achieve this, 'Co-creating our city' projects seek to involve decision-makers and members of the city administration or council in the group of co-researchers.
+One of the project's goals is to facilitate a dialogue between young people and decision-makers and members of the city administration. Involving both young people and city leaders is key for the co-researchers to develop city-specific proposals that are directly actionable. To achieve this, 'Co-Creating Our City' projects seek to involve decision-makers and members of the city administration or council in the group of co-researchers.
 
 ### Whom to approach
 
-For the success of your 'Co-creating our city' project it is worth the effort of involving staff from a variety of departments within the city administration, and not just those that are youth-focused or engaging with young people already. Decision-makers who do not usually get to speak to young people can particularly benefit from participating as co-researchers. Equally, for young people, it is important to be able to have a say in issues that go beyond the topics of youth policy and education. Our survey among young people in Charlotte showed that young people were particularly interested in having a say in areas such as economic development, planning and development, technology and innovation, and communications and marketing.
+For the success of your 'Co-Creating Our City' project it is worth the effort of involving staff from a variety of departments within the city administration, and not just those that are youth-focused or engaging with young people already. Decision-makers who do not usually get to speak to young people can particularly benefit from participating as co-researchers. Equally, for young people, it is important to be able to have a say in issues that go beyond the topics of youth policy and education. Our survey among young people in Charlotte showed that young people were particularly interested in having a say in areas such as economic development, planning and development, technology and innovation, and communications and marketing.
 
 When approaching decision-makers, it is worth considering governance structures and focusing adult recruitment on those areas where city leaders have autonomy to make decisions. In Düsseldorf, the project team involved decision-makers in areas such as education and youth work, because young people considered them key places for increasing engagement and the city has a degree of autonomy over decisions in these areas. In Charlotte, in contrast, the city is not involved in school governance (which is handled by an independently elected board of education), and these areas of activity were not discussed as options for decision-maker participants.
 

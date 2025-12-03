@@ -35,7 +35,7 @@ export default defineConfig({
           text: "Introduction",
           items: [
             {
-              text: "What is 'Co-creating our city'?",
+              text: "What is 'Co-Creating Our City'?",
               link: "/docs/introduction/what-is-co-creating-our-city",
             },
             {
@@ -48,7 +48,7 @@ export default defineConfig({
           text: "I. Making the case",
           items: [
             {
-              text: "Why we need 'Co-creating our city'",
+              text: "Why we need 'Co-Creating Our City'",
               link: "/docs/making-the-case/why-we-need-co-creating-our-city",
             },
             {

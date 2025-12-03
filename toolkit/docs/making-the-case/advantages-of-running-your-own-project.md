@@ -1,23 +1,23 @@
 # Advantages of running your own project
 
-A 'Co-creating our city' project has benefits for young people and cities, in the short and long term.
+A 'Co-Creating Our City' project has benefits for young people and cities, in the short and long term.
 
-**For young people:**
+**For Young People:**
 
 - promotes civic engagement and trust in city institutions and inspires young people to feel more connected to their city;
 - increases democratic literacy, understanding, and efficacy: belief in being able to shape public life and policy;
 - develops scientific literacy and leadership and communication skills.
 
-**For cities and communities:**
+**For Cities and Communities:**
 
 - creates opportunity to gain deeper insight into youth needs and experiences and to discover new intergenerational pathways for youth engagement within the city; 
 - generates collaborative solutions that tend to have greater longevity and rates of success, as they incorporate both lived experience and practical considerations;
 - strengthens democratic processes by bringing young people's perspectives to local issues and increasing the city's capacity to design inclusive and sustainable policies;
 - builds trust and connection between young residents and the city, making cities equitable and sustainable communities and places where people want to live.
 
-## A theory of change: Co-creating our city 
+## A theory of change: Co-Creating Our City 
 
-A theory of change is a strategic tool that outlines how and why a project like 'Co-creating our city' is expected to lead to the desired change. Providing clarity on the assumptions and kinds of change you expect to see helps you communicate, plan, and implement the project and evaluate its impact.
+A theory of change is a strategic tool that outlines how and why a project like 'Co-Creating Our City' is expected to lead to the desired change. Providing clarity on the assumptions and kinds of change you expect to see helps you communicate, plan, and implement the project and evaluate its impact.
 
 | If... | Then... |
 |-------|---------|

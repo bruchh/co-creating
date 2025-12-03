@@ -14,7 +14,7 @@ interface BenefitCategory {
 
 const benefitCategories: BenefitCategory[] = [
     {
-        title: "For young people:",
+        title: "For Young People:",
         items: [
             { text: "promotes civic engagement and trust in institutions." },
             {
@@ -29,7 +29,7 @@ const benefitCategories: BenefitCategory[] = [
         ],
     },
     {
-        title: "For cities and communities:",
+        title: "For Cities and Communities:",
         items: [
             {
                 text: "creates opportunity to gain insight into youth needs and experiences.",

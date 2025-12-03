@@ -135,7 +135,7 @@ const projects: Project[] = [
                 type: "official",
             },
             {
-                text: "I've realized that we all still have to keep working on giving young people space for their opinions and participation still needs to be strengthened, even in Duesseldorf where we are actually already very privileged.",
+                text: "I've realized that we all still have to keep working on giving young people space for their opinions and participation still needs to be strengthened, even in Düsseldorf where we are actually already very privileged.",
                 author: "Clara Qianhe Wang",
                 role: "Citizen Scientist, Düsseldorf",
                 type: "youth",
@@ -200,7 +200,7 @@ const projects: Project[] = [
                 <p class="text-lg text-slate-700 leading-relaxed">
                     In June 2024, two pilot cities, Charlotte, North Carolina
                     (US), and Düsseldorf, Germany, launched yearlong
-                    ‘Co-creating our city’ projects to address the mismatch
+                    ‘Co-Creating Our City’ projects to address the mismatch
                     between opportunities for youth engagement and what young
                     people seek to engage with their cities. Using a
                     participatory research approach, young people aged 14 to 24,

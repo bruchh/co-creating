@@ -1,4 +1,4 @@
-# Five steps to organizing your 'Co-creating our city' project
+# Five steps to organizing your 'Co-Creating Our City' project
 
 There are five key steps to the research process using Citizen Science and co-creation. Each step plays an important role in ensuring meaningful participation and effective results:
 
@@ -11,11 +11,11 @@ There are five key steps to the research process using Citizen Science and co-cr
 
 <img width="4961" height="2894" class="my-4 sm:my-8" src="/five-steps.png">
 
-Follow these steps to successfully run your own 'Co-creating our city' project and consider the details on each of these steps in more detail: specific goals, tasks, and practical considerations.
+Follow these steps to successfully run your own 'Co-Creating Our City' project and consider the details on each of these steps in more detail: specific goals, tasks, and practical considerations.
 
 ## Step 1: Define a common research goal
 
-Defining a clear objective is crucial for any research project, and in particular for a 'Co-creating our city' project. In the beginning, your project team should focus on identifying what change is needed and why and decide which specific challenges or gaps you want to investigate.
+Defining a clear objective is crucial for any research project, and in particular for a 'Co-Creating Our City' project. In the beginning, your project team should focus on identifying what change is needed and why and decide which specific challenges or gaps you want to investigate.
 
 To do so jointly with co-researchers, it is important to gather a variety of ideas on the type of change your community needs and the objectives you want to pursue, for example in a brainstorming session with your co-researchers. This ensures a broad perspective rooted in your community and allows the group to see all potential areas of interest, even those you might not previously have thought of. It is important to try and remain open and flexible during this first step and to be able to adapt to new ideas and feedback from the co-researchers as the project objectives evolve.
 
@@ -26,11 +26,11 @@ When settling on a research objective for your project, consider two types of ob
 - **Knowledge objectives (What knowledge is needed to achieve this?).** These define what kind of information and understanding you want to achieve.
 - **Practical objectives (What do you want to do?).** These are important for the impact you want your research to achieve.
 
-When phrasing research objectives for your 'Co-creating our city' project, it can be a good idea to use the SMART criteria: objectives should be Specific, Measurable, Attainable, Realistic, and Time-bound. Applying SMART criteria to your chosen research objectives ensures clarity, feasibility, and accountability, and helps your project achieve research outcomes that are both meaningful and directly actionable.
+When phrasing research objectives for your 'Co-Creating Our City' project, it can be a good idea to use the SMART criteria: objectives should be Specific, Measurable, Attainable, Realistic, and Time-bound. Applying SMART criteria to your chosen research objectives ensures clarity, feasibility, and accountability, and helps your project achieve research outcomes that are both meaningful and directly actionable.
 
 Finally, based on your chosen research objectives, you can develop a focused and specific research question. This research question will steer the rest of the research process.
 
-::: info Case study: Research objectives and research question from 'Co-creating our city' pilot project in Düsseldorf
+::: info Case study: Research objectives and research question from 'Co-Creating Our City' pilot project in Düsseldorf
 
 This example demonstrates how we worked through research objectives and toward an overarching research question in our pilot project in Düsseldorf.
 

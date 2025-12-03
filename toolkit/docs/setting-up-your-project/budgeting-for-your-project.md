@@ -2,7 +2,7 @@
 
 ## Staff time
 
-Depending on how you build your project team and staffing costs, the funding required for your own 'Co-creating our city' project might be relatively minimal. The main costs are incurred for staff time to plan and conduct the project, including recruitment of co-researchers, facilitating workshops, conducting and analyzing research, and disseminating the project findings. 
+Depending on how you build your project team and staffing costs, the funding required for your own 'Co-Creating Our City' project might be relatively minimal. The main costs are incurred for staff time to plan and conduct the project, including recruitment of co-researchers, facilitating workshops, conducting and analyzing research, and disseminating the project findings. 
 
 If you work alone or your team's time is (partially) paid for through existing roles in the city or a stakeholder organization, you may not have to consider this cost. If you plan on bringing on board team members whose time needs to be costed for this project, consider:
 

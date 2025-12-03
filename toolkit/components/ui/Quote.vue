@@ -32,7 +32,7 @@ defineProps<{
             </p>
 
             <!-- Attribution -->
-            <div class="mt-4">
+            <div class="mt-4 max-sm:-translate-x-12">
                 <p class="font-bold text-dpart-purple-dark! my-0!">
                     {{ person }}
                 </p>

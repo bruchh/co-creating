@@ -1,6 +1,6 @@
 # Defining the goals and scope of your project
 
-For your 'Co-creating our city' project to be successful, it is essential to start with a shared understanding of what success looks like. Establishing clear objectives and guardrails early on can help you use time effectively and drive towards concrete outcomes and impact at city level. 
+For your 'Co-Creating Our City' project to be successful, it is essential to start with a shared understanding of what success looks like. Establishing clear objectives and guardrails early on can help you use time effectively and drive towards concrete outcomes and impact at city level. 
 
 This involves setting concrete objectives for your project: 
 
@@ -9,11 +9,11 @@ This involves setting concrete objectives for your project:
 
 Clarifying the scope of potential solutions early on is important to connect with the most relevant people within your city and to drive impact and avoid disappointment when it comes to the implementation of suggested solutions. It also ensures that the project is designed with the right scale, scope, and stakeholders in mind. 
 
-Establishing a theory of change for your 'Co-creating our city' project can be a powerful tool at this stage: a theory of change helps articulate how and why a project like 'Co-creating our city' is expected to lead to the desired change. Your theory of change should outline, concretely for your city or community, the change you expect to see, what activities and partnerships are needed to achieve that change, the assumptions that need to be met, and how progress will be measured. 
+Establishing a theory of change for your 'Co-Creating Our City' project can be a powerful tool at this stage: a theory of change helps articulate how and why a project like 'Co-Creating Our City' is expected to lead to the desired change. Your theory of change should outline, concretely for your city or community, the change you expect to see, what activities and partnerships are needed to achieve that change, the assumptions that need to be met, and how progress will be measured. 
 
 ::: tip Imagining the change you want to see
 
-Consider these potential outcomes for your 'Co-creating our city' project: 
+Consider these potential outcomes for your 'Co-Creating Our City' project: 
 
 - A concrete solution to an issue (e.g., sustainability, transport, or housing) that takes into account young people's needs and views
 - New processes to communicate with or solicit ideas from young residents

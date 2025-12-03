@@ -2,7 +2,7 @@
 
 Running a participatory research process with young people and city staff as co-researchers offers many opportunities, but it also brings unique challenges. Slow progress and limits to the engagement of your co-researchers can particularly challenge your project, especially if they are not addressed. 
 
-Reflecting on our experience with 'Co-creating our city' pilots in Charlotte and Düsseldorf, we recognized several recurring challenges. Anticipating these potential roadblocks and planning how you can prevent or respond to them can avoid delays, strengthen engagement, and create a smoother path toward meaningful, jointly produced results.
+Reflecting on our experience with 'Co-Creating Our City' pilots in Charlotte and Düsseldorf, we recognized several recurring challenges. Anticipating these potential roadblocks and planning how you can prevent or respond to them can avoid delays, strengthen engagement, and create a smoother path toward meaningful, jointly produced results.
 
 ## 1. Attendance and scheduling conflicts
 

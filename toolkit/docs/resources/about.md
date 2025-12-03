@@ -32,7 +32,7 @@ Steven Bosacker (German Marshall Fund of the United States), Joshua Chamberlin (
 
 ## Contact
 
-Contact us with questions or to let us know of your 'Co-creating our city' project at [citiescomms@gmfus.org](mailto:citiescomms@gmfus.org)
+Contact us with questions or to let us know of your 'Co-Creating Our City' project at [citiescomms@gmfus.org](mailto:citiescomms@gmfus.org)
 
 ## Imprint
 

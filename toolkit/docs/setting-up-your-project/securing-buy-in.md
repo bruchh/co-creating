@@ -6,7 +6,7 @@ One way to achieve this commitment is by building relationships with key stakeho
 
 You can achieve alignment in stakeholder expectations from the outset by:
 
-- verbalizing and sharing a theory of change for your 'Co-creating our city' project
+- verbalizing and sharing a theory of change for your 'Co-Creating Our City' project
 - scheduling project kick-off meetings to agree on objectives and assumptions
 - listening and responding to concerns
 - agreeing on key dates and process expectations
@@ -14,7 +14,7 @@ You can achieve alignment in stakeholder expectations from the outset by:
 
 ## Champions at city level
 
-One key assumption that is crucial for the success of 'Co-creating our city' projects is that city officials are willing to engage in open dialogue with young people and to make changes in governance. To achieve lasting impact, your project will need to secure commitment and resources from city leaders, not just to listen but to act on insights and pilot some of the proposed solutions at the end of the project. Early buy-in helps create a clearer pathway for translating research into policy or program changes quickly after the project ends. Put simply: When decision-makers feel included in the process, they are less likely to reject or ignore findings that challenge existing policies. Having project champions within the city administration and obtaining clear and enthusiastic buy-in can also help shape the research objectives to align with city priorities and amplify the project's potential for impact.
+One key assumption that is crucial for the success of 'Co-Creating Our City' projects is that city officials are willing to engage in open dialogue with young people and to make changes in governance. To achieve lasting impact, your project will need to secure commitment and resources from city leaders, not just to listen but to act on insights and pilot some of the proposed solutions at the end of the project. Early buy-in helps create a clearer pathway for translating research into policy or program changes quickly after the project ends. Put simply: When decision-makers feel included in the process, they are less likely to reject or ignore findings that challenge existing policies. Having project champions within the city administration and obtaining clear and enthusiastic buy-in can also help shape the research objectives to align with city priorities and amplify the project's potential for impact.
 
 Prospective participant groups include the executive or mayoral office, decision-makers already involved with youth engagement, and officials from different departments and agencies that young people might be interested in or who may want to hear young peoples' views. Examples include those responsible for housing, planning, transportation, technology, innovation, and economic development. Multiple staff from a department may want to participate, as happened in Charlotte with the Housing and Neighborhood Services and Planning Departments, to share the responsibilities of workshop participation and engagement.
 
@@ -22,9 +22,9 @@ Early in-depth conversations with city officials are an opportunity to emphasize
 
 ::: tip Talking points to secure buy-in from champions at the city level
 
-Interested in setting up your own 'Co-creating our city' project but not sure how to win champions at city level? Here is a list of talking points you can use.
+Interested in setting up your own 'Co-Creating Our City' project but not sure how to win champions at city level? Here is a list of talking points you can use.
 
-**A 'Co-creating our city' project...**
+**A 'Co-Creating Our City' project...**
 
 - ... tackles a persistent challenge we face (e.g., youth disengagement, mistrust in institutions, lack of civic engagement) with innovative, participatory solutions.
 - ... builds a long-term culture of civic engagement and intergenerational collaboration by strengthening the relationship between young residents and city institutions.
@@ -40,7 +40,7 @@ Interested in setting up your own 'Co-creating our city' project but not sure ho
 
 ## Local partners and youth organizations
 
-Local partners and youth organizations are key in helping your project connect with the community and bringing on board (non-city) stakeholders who care about youth voice and youth engagement. They can help identify participants, involve young people in the various engagement opportunities your 'Co-creating our city' project offers, and bring your project findings back to young people in the community.
+Local partners and youth organizations are key in helping your project connect with the community and bringing on board (non-city) stakeholders who care about youth voice and youth engagement. They can help identify participants, involve young people in the various engagement opportunities your 'Co-Creating Our City' project offers, and bring your project findings back to young people in the community.
 
 Depending on your local context, local partners can refer to any of a broad range of community-based groups who involve and work with young people, for example:
 

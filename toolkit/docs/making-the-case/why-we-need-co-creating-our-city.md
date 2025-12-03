@@ -1,4 +1,4 @@
-# Why do we need projects like 'Co-creating our city'?
+# Why do we need projects like 'Co-Creating Our City'?
 
 Many cities and municipalities recognize the importance of involving young people in community development and local governance. City leaders and local decision-makers benefit from insights gathered through structured dialogue with young people. Engaging young people's voices ensures that city governance is inclusive and sustainable, benefiting not just young people but the entire community.
 
@@ -81,11 +81,11 @@ Andersson, E. (2022). Three major challenges in young people's political partici
 Batsleer, J., Rowley, H., & Lüküslü, D. (2023). Young people, radical democracy and community development. Bristol University Press.
 :::
 
-## 'Co-creating our city' can address gaps in local youth engagement
+## 'Co-Creating Our City' can address gaps in local youth engagement
 
-'Co-creating our city' projects are collaborative projects that use a Citizen Science approach to do research steered and conducted jointly by local decision-makers and young people with lived experience of the issue being studied. Based on their research, young people and local decision-makers develop concrete proposals reflecting what young people want to see in their communities and what is feasible and achievable. The Citizen Science approach includes the perspectives, needs, and informal knowledge of those with exclusive access to their communities.
+'Co-Creating Our City' projects are collaborative projects that use a Citizen Science approach to do research steered and conducted jointly by local decision-makers and young people with lived experience of the issue being studied. Based on their research, young people and local decision-makers develop concrete proposals reflecting what young people want to see in their communities and what is feasible and achievable. The Citizen Science approach includes the perspectives, needs, and informal knowledge of those with exclusive access to their communities.
 
-'Co-creating our city' projects offer a way to meaningfully involve young people in decision-making, research design and delivery, and policymaking. The approach empowers the co-researchers, young people and decision-makers alike, to work together, to articulate their ideas of youth engagement and vibrant communities, and to use scientific research methods and engage in impactful discussions about these ideas (thereby addressing important objectives of scientific and democratic literacy), as well as to experience real-life political efficacy by promoting change in their cities.
+'Co-Creating Our City' projects offer a way to meaningfully involve young people in decision-making, research design and delivery, and policymaking. The approach empowers the co-researchers, young people and decision-makers alike, to work together, to articulate their ideas of youth engagement and vibrant communities, and to use scientific research methods and engage in impactful discussions about these ideas (thereby addressing important objectives of scientific and democratic literacy), as well as to experience real-life political efficacy by promoting change in their cities.
 
 At its core, co-creation and Citizen Science methods represent a paradigm shift: They challenge entrenched ideas about who holds legitimate knowledge and decision-making power, disrupting power imbalances that can exclude young people's voices. This brings young people's experiences and ideas to the forefront of local initiatives and ensures that young people are not just consulted but positioned as essential partners in the creation of more inclusive, responsive, and democratic cities.
 
@@ -96,21 +96,21 @@ At its core, co-creation and Citizen Science methods represent a paradigm shift:
 | Adult expertise privileged | Multiple forms of expertise valued |
 | Knowledge produced for decision-makers and expert audiences | Knowledge produced for practical application and shared with stakeholders |
 
-::: info Principles of 'Co-creating our city' projects
+::: info Principles of 'Co-Creating Our City' projects
 
-- 'Co-creating our city' projects actively involve members of the studied community and local decision-makers in the process of generating new knowledge about, or understanding of, the needs of their communities.
+- 'Co-Creating Our City' projects actively involve members of the studied community and local decision-makers in the process of generating new knowledge about, or understanding of, the needs of their communities.
 
-- 'Co-creating our city' projects answer a genuine question about how to improve engagement in local communities and seek to conduct high quality research to produce actionable and impactful findings.
+- 'Co-Creating Our City' projects answer a genuine question about how to improve engagement in local communities and seek to conduct high quality research to produce actionable and impactful findings.
 
-- 'Co-creating our city' projects strive to involve young people and local decision-makers as co-researchers in as many aspects of the research process as possible.
+- 'Co-Creating Our City' projects strive to involve young people and local decision-makers as co-researchers in as many aspects of the research process as possible.
 
-- Participants in 'Co-creating our city' projects, whether project leaders, young people, or adults, benefit from taking part and gaining new perspectives to help strengthen their understanding.
+- Participants in 'Co-Creating Our City' projects, whether project leaders, young people, or adults, benefit from taking part and gaining new perspectives to help strengthen their understanding.
 
-- 'Co-creating our city' projects take into consideration legal and ethical issues surrounding data protection, copyright, intellectual property, confidentiality, attribution, and the impact of any activities on communities.
+- 'Co-Creating Our City' projects take into consideration legal and ethical issues surrounding data protection, copyright, intellectual property, confidentiality, attribution, and the impact of any activities on communities.
 
-- 'Co-creating our city' participants are adequately compensated and acknowledged in project results and publications. They are informed about the impact of their work and actively involved in sharing findings with stakeholders in their communities.
+- 'Co-Creating Our City' participants are adequately compensated and acknowledged in project results and publications. They are informed about the impact of their work and actively involved in sharing findings with stakeholders in their communities.
 
-- 'Co-creating our city' projects are evaluated for their research, participant experience, and wider societal or policy impact.
+- 'Co-Creating Our City' projects are evaluated for their research, participant experience, and wider societal or policy impact.
 :::
 
 ::: details Read more: Co-creation in cities and municipalities

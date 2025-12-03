@@ -26,7 +26,7 @@ const quotes: QuoteItem[] = [
         position: "Citizen Scientist, Düsseldorf",
     },
     {
-        quote: "We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-creating our city' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.",
+        quote: "We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-Creating Our City' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.",
         person: "Megha Mittal",
         position: "Citizen Scientist, Charlotte",
     },
@@ -63,14 +63,14 @@ const quotes: QuoteItem[] = [
             <!-- Two Column Layout: Approach + Quotes -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-12">
                 <!-- Approach Comparison - Left side (~60%) -->
-                <div class="lg:col-span-1">
+                <div class="md:col-span-2">
                     <ApproachComparison />
                 </div>
 
                 <!-- Quotes - Right side (~40%) -->
-                <div class="lg:col-span-1">
+                <div class="md:col-span-2">
                     <!-- Stacked Quotes - Desktop/Tablet -->
-                    <div class="hidden md:flex md:flex-col md:gap-0">
+                    <div class="hidden md:grid md:grid-cols-2 md:gap-0">
                         <Quote
                             v-for="(quoteItem, index) in quotes"
                             :key="index"

@@ -30,10 +30,10 @@ const comparisons: ComparisonPair[] = [
 
 <template>
     <div
-        class="max-w-3xl mx-auto p-6 rounded-2xl border border-gold border-dashed flex flex-col h-full md:pr-12 lg:pr-16"
+        class="mx-auto p-6 rounded-2xl border border-gold border-dashed flex flex-col h-full"
     >
         <!-- Legend -->
-        <div class="flex gap-8 mb-8 text-sm">
+        <div class="flex gap-8 mb-8 text-sm md:hidden">
             <div class="flex items-center gap-2">
                 <div class="w-3 h-3 rounded-full bg-slate-300" />
                 <span class="text-slate-600">Traditional Approach</span>
@@ -47,23 +47,37 @@ const comparisons: ComparisonPair[] = [
         </div>
 
         <!-- Comparisons -->
-        <div class="space-y-6">
+        <div class="space-y-6 md:space-y-4">
+            <div class="md:grid md:grid-cols-2">
+                <h3>
+                    <span class="text-dpart-purple-dark! font-bold"
+                        >Traditional Approach</span
+                    >
+                </h3>
+                <h3>
+                    <span class="text-dpart-purple-dark! font-bold"
+                        >Co-Created Approach</span
+                    >
+                </h3>
+            </div>
             <div v-for="(pair, index) in comparisons" :key="index" class="">
-                <!-- Traditional approach -->
-                <div class="text-slate-600 mb-2">
-                    {{ pair.traditional }}
-                </div>
+                <div class="md:grid md:grid-cols-2">
+                    <!-- Traditional approach -->
+                    <div class="text-slate-600 mb-2">
+                        {{ pair.traditional }}
+                    </div>
 
-                <!-- Arrow icon -->
-                <div class="grid grid-cols-[24px_1fr] gap-2 mb-3">
-                    <CornerDownRight
-                        :size="20"
-                        :stroke-width="2"
-                        class="text-purple-700"
-                    />
-                    <!-- Co-created approach -->
-                    <div class="text-dpart-purple-dark! font-medium">
-                        {{ pair.coCreated }}
+                    <!-- Arrow icon -->
+                    <div class="grid max-md:grid-cols-[24px_1fr] gap-2 mb-3">
+                        <CornerDownRight
+                            :size="20"
+                            :stroke-width="2"
+                            class="text-purple-700 md:hidden!"
+                        />
+                        <!-- Co-created approach -->
+                        <div class="text-dpart-purple-dark! font-medium">
+                            {{ pair.coCreated }}
+                        </div>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 # Commitment and communication
 
-Building strong relationships is the foundation for the success of your 'Co-creating our city' project. Relationships with your co-researchers must be reliable, respectful, and participatory. This means that young people and city leaders are taken seriously not only as participants but also as active partners and co-researchers.
+Building strong relationships is the foundation for the success of your 'Co-Creating Our City' project. Relationships with your co-researchers must be reliable, respectful, and participatory. This means that young people and city leaders are taken seriously not only as participants but also as active partners and co-researchers.
 
 The Citizen Science approach of the project is ambitious and requires a considerable commitment of time from the co-researchers. This commitment and the time you expect co-researchers to set aside for their involvement in the project should be clearly communicated at the beginning. Participation in the project means attending all workshops and actively engaging in research activities between workshops. How involved individual co-researchers are can change over the course of the project and depends on the size of your group of co-researchers and the scope and research design of your project.
 

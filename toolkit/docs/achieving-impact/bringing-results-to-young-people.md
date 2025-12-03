@@ -30,7 +30,7 @@ import Quote from '../../components/ui/Quote.vue'
   position="Office for Social Affairs and Youth, City of Düsseldorf"
 />
 
-::: info Case study: Agenda of 'Co-creating our city' closing event in Düsseldorf
+::: info Case study: Agenda of 'Co-Creating Our City' closing event in Düsseldorf
 
 **Goals**
 
@@ -88,7 +88,7 @@ import Quote from '../../components/ui/Quote.vue'
 
 ## Media (local and/or youth focused)
 
-Local media or media outlets that target young people are excellent channels to bring 'Co-creating our city' insights to a wider group of young people in the city. Involving local media and youth-focused media outlets can help build or keep up pressure with city officials to achieve impact and close the feedback loop when changes are being made after the end of the project.
+Local media or media outlets that target young people are excellent channels to bring 'Co-Creating Our City' insights to a wider group of young people in the city. Involving local media and youth-focused media outlets can help build or keep up pressure with city officials to achieve impact and close the feedback loop when changes are being made after the end of the project.
 
 Local media or media outlets that target young people should be involved when communicating the project findings. Beyond that, opportunities for communication within the project may also arise from documenting the process and workshops, for example the kick-off, calls for participation in the project or in the research, the impact of the findings, or personal experiences of the participants.
 

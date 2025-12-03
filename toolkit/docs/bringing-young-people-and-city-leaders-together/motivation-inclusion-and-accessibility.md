@@ -2,7 +2,7 @@
 
 The (young) participants take part in the project voluntarily and devote their free time to act as co-researchers. It is therefore important to ensure they perceive the project as enriching, to show appreciation for their time, and to create an atmosphere in which they feel comfortable to contribute. Project teams should make sure they create an environment in which youth participants feel just as free as the adults to speak up and to participate fully. When bringing together young people and city leaders, it is also essential to acknowledge and address differences in knowledge, experience, and power.
 
-'Co-creating our city' projects focus explicitly on the participation of underrepresented groups. This means that facilitators must think about and make an effort to welcome and include participants from diverse backgrounds and that teams have to be especially conscious of avoiding potential biases or discrimination (conscious or unconscious).  
+'Co-Creating Our City' projects focus explicitly on the participation of underrepresented groups. This means that facilitators must think about and make an effort to welcome and include participants from diverse backgrounds and that teams have to be especially conscious of avoiding potential biases or discrimination (conscious or unconscious).  
 
 Consider the following to create an inclusive, accessible, and non-discriminatory space for your project:
 

@@ -12,13 +12,13 @@ Reports can include findings, data insights, recommendations, and ideas that may
 
 Briefings where the co-researchers explain their findings to decision-makers are essential for creating impact because they can make the findings more persuasive and memorable, and harder to ignore. 
 
-First, when co-researchers present their findings directly to decision-makers, it highlights that the findings of 'Co-creating our city' projects are driven by young people and their communities, not imposed from outside. Direct engagement shows decision-makers that young people and the community are invested, which can create pressure to act.
+First, when co-researchers present their findings directly to decision-makers, it highlights that the findings of 'Co-Creating Our City' projects are driven by young people and their communities, not imposed from outside. Direct engagement shows decision-makers that young people and the community are invested, which can create pressure to act.
 
 Second, hearing directly from those who were involved in the project and affected by the issues brings recommendations to life and grounds them in real experiences. Co-researchers have deep insight into the context and needs behind the recommendations, helping leaders better understand the "why" behind the recommendations. Personal stories and firsthand perspectives can move decision-makers in ways that written reports alone often cannot.
 
 Supporters of the project―your project champions from within the city administration or city council―are important door openers to get opportunities for in-person meetings or briefings. They may identify key contacts or arrange and schedule meetings. In Düsseldorf, for example, the co-researchers were given an official slot on the agenda of the youth welfare committee. In Charlotte, organizers briefed several city departments on relevant findings and brainstormed ideas for improving youth engagement with some of them.
 
-::: info Case study: How the 'Co-creating our city' pilot project in Düsseldorf communicated findings to achieve impact
+::: info Case study: How the 'Co-Creating Our City' pilot project in Düsseldorf communicated findings to achieve impact
 
 In Düsseldorf, the project team alongside selected co-researchers presented the project findings during a meeting of the Youth Welfare Council of the City of Düsseldorf, This council makes proposals for and decisions on matters of youth engagement in cit decision-making and convenes regularly to discuss issues concerning children and young people. The Council is composed of elected officials as well as representatives of various organizations involved in children and young people's welfare, engagement, and development.
 
