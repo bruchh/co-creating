@@ -1,4 +1,4 @@
-# Roadblocks and how to tackle them
+# Roadblocks and How to Tackle Them
 
 Running a participatory research process with young people and city staff as co-researchers offers many opportunities, but it also brings unique challenges. Slow progress and limits to the engagement of your co-researchers can particularly challenge your project, especially if they are not addressed. 
 

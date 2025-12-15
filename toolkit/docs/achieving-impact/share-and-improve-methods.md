@@ -1,4 +1,4 @@
-# Share and improve co-creation and participatory methods
+# Share and Improve Co-Creation and Participatory Methods
 
 ## Pre-/post-project and continuous evaluation
 

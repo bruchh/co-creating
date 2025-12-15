@@ -5,7 +5,7 @@ This page provides ready-to-use materials and templates to support your 'Co-Crea
 ## Ready-to-Use Materials and Templates
 
 ### Overarching Frameworks
-- **[Toolkit Co-Creating Our City](/documents/Toolkit%20Co-Creating%20Our%20City%20[pdf].pdf)** - The complete toolkit for the project.
+- **[Toolkit Co-Creating Our City](/documents/Toolkit-CCoC_2025-12-08.pdf)** - The complete toolkit for the project.
 - **[Theory of Change Co-Creating Our City](/documents/Theory%20of%20Change%20Co-Creating%20Our%20City.pdf)** - Outlines the project's long-term goals and how to achieve them.
 - **[Five Steps of Co-Creating Our City](/documents/Five%20Steps%20of%20Co-Creating%20Our%20City.pdf)** - A step-by-step guide to the co-creation process.
 

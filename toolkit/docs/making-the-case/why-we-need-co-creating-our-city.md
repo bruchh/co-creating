@@ -1,4 +1,4 @@
-# Why do we need projects like 'Co-Creating Our City'?
+# Why Do We Need Projects Like 'Co-Creating Our City'?
 
 Many cities and municipalities recognize the importance of involving young people in community development and local governance. City leaders and local decision-makers benefit from insights gathered through structured dialogue with young people. Engaging young people's voices ensures that city governance is inclusive and sustainable, benefiting not just young people but the entire community.
 

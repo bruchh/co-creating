@@ -2,7 +2,7 @@
 <script setup>
 import Quote from '../../components/ui/Quote.vue'
 </script>
-# Bringing young people and city leaders together
+# Bringing Young People and City Leaders Together
 
 The key to successful 'Co-Creating Our City' projects is to meaningfully connect young people and decision-makers in a collaborative research process. The goal is to understand and overcome the mismatch between demands and opportunities for youth engagement through participatory research, mutual exchange, and jointly developed solutions for youth engagement.
 

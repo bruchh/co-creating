@@ -1,4 +1,4 @@
-# Bringing the results to (young) people in your city
+# Bringing the Results to (Young) People in Your City
 
 ## Peer-to-peer campaign
 

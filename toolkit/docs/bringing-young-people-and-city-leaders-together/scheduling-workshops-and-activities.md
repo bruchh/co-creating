@@ -1,4 +1,4 @@
-# Scheduling workshops and activities with co-researchers
+# Scheduling Workshops and Activities with Co-Researchers
 
 It is important to come to an agreement with all co-researchers involved in your project on the days and times that work for everyone to attend workshops and conduct research and dissemination events. 
 

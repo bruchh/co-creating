@@ -1,4 +1,4 @@
-# Securing buy-in and identifying project champions at city and local levels
+# Securing Buy-in and Identifying Project Champions at City and Local Levels
 
 Securing buy-in from key stakeholders—champions in the city administration and local partners as well as youth work organizations—is crucial for a project's success. Early engagement of key stakeholders and local partners also fosters a sense of partnership, increasing their willingness to support the project while it is ongoing and to consider and act on the results. Project champions and local partners can open doors to resources, data that already exists, the networks needed to recruit co-researchers and research participants, and implementation of findings.
 

@@ -39,20 +39,20 @@ export default defineConfig({
               link: "/docs/introduction/what-is-co-creating-our-city",
             },
             {
-              text: "About this toolkit",
+              text: "About This Toolkit and How You Can Use It",
               link: "/docs/introduction/about-this-toolkit",
             },
           ],
         },
         {
-          text: "I. Making the case",
+          text: "I. Making the Case",
           items: [
             {
-              text: "Why we need 'Co-Creating Our City'",
+              text: "Why Do We Need Projects Like 'Co-Creating Our City'",
               link: "/docs/making-the-case/why-we-need-co-creating-our-city",
             },
             {
-              text: "Advantages of running your own project",
+              text: "Advantages of Running Your Own Project",
               link: "/docs/making-the-case/advantages-of-running-your-own-project",
             },
           ],
@@ -65,44 +65,44 @@ export default defineConfig({
               link: "/docs/setting-up-your-project/index",
             },
             {
-              text: "Defining goals and scope",
+              text: "Defining Goals and Scope",
               link: "/docs/setting-up-your-project/defining-goals-and-scope",
             },
             {
-              text: "Building the project team",
+              text: "Building the Project Team",
               link: "/docs/setting-up-your-project/building-the-project-team",
             },
             {
-              text: "Securing buy-in",
+              text: "Securing Buy-in",
               link: "/docs/setting-up-your-project/securing-buy-in",
             },
             {
-              text: "Planning duration and timing",
+              text: "Planning Duration and Timing",
               link: "/docs/setting-up-your-project/planning-duration-and-timing",
             },
             {
-              text: "Budgeting for your project",
+              text: "Budgeting for Your Project",
               link: "/docs/setting-up-your-project/budgeting-for-your-project",
             },
           ],
         },
         {
-          text: "III. Bringing young people and city leaders together",
+          text: "III. Bringing Young People and City Leaders Together",
           items: [
             {
               text: "Overview",
               link: "/docs/bringing-young-people-and-city-leaders-together/index",
             },
             {
-              text: "Recruiting co-researchers",
+              text: "Recruiting Co-Researcher",
               link: "/docs/bringing-young-people-and-city-leaders-together/recruiting-co-researchers",
             },
             {
-              text: "Legal and ethical considerations",
+              text: "Legal and Ethical Considerations",
               link: "/docs/bringing-young-people-and-city-leaders-together/legal-and-ethical-considerations",
             },
             {
-              text: "Motivation, inclusion, and accessibility",
+              text: "Motivation, Inclusion, and Accessibility",
               link: "/docs/bringing-young-people-and-city-leaders-together/motivation-inclusion-and-accessibility",
             },
             {
@@ -123,7 +123,7 @@ export default defineConfig({
               link: "/docs/doing-participatory-research/index",
             },
             {
-              text: "What is participatory research?",
+              text: "What is Participatory Research?",
               link: "/docs/doing-participatory-research/what-is-participatory-research",
             },
             {
@@ -135,7 +135,7 @@ export default defineConfig({
               link: "/docs/doing-participatory-research/from-steps-to-action",
             },
             {
-              text: "Roadblocks and how to tackle them",
+              text: "Roadblocks and How to Tackle Them",
               link: "/docs/doing-participatory-research/roadblocks-and-how-to-tackle-them",
             },
           ],

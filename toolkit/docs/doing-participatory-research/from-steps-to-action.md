@@ -1,4 +1,4 @@
-# From steps to action: Working with co-researchers
+# From Steps to Action: Working with Co-Researchers
 
 To set up and conduct the five steps of participatory research, researchers and co-researchers need to establish effective ways of working and a strong basis for collaboration. They need to collaborate:
 

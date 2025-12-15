@@ -1,4 +1,4 @@
-# Building the project team
+# Building the Project Team
 
 Your project team does not need to be big, but it needs to have sufficient capacity for workshop facilitation and logistics as well as some experience with social research and data analysis. Think about who you need on your project team to manage the following responsibilities:
 

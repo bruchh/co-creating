@@ -1,4 +1,4 @@
-# Five steps to organizing your 'Co-Creating Our City' project
+# Five Steps to Organizing Your 'Co-creating our city’ project 
 
 There are five key steps to the research process using Citizen Science and co-creation. Each step plays an important role in ensuring meaningful participation and effective results:
 

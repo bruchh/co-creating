@@ -1,4 +1,4 @@
-# Get city leaders to take action based on research results
+# Get City Leaders to Take Action Based on Research Results
 
 ## A written report or slide deck
 

@@ -1,4 +1,4 @@
-# Achieving impact with your findings and outputs
+# Achieving Impact with Your Findings and Outputs
 
 Communicating the findings of your 'Co-Creating Our City' project is essential if it is to create impact and a change in how youth engagement is practiced. Because the project is rooted in collaboration with young people from the local community, it is vital that the findings are shared with young people in these communities in accessible and engaging ways, especially to young people who may be underrepresented in deliberative democracy and city dialogue. At the same time, the project is designed to inform and inspire action from city leaders, meaning community-generated insights need to be translated into meaningful policy or programmatic change.
 

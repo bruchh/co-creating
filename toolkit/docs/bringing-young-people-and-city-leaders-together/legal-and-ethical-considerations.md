@@ -1,4 +1,4 @@
-# Legal and ethical considerations
+# Legal and Ethical Considerations
 
 When working with young people and adult decision-makers in a 'Co-Creating Our City' project, it is crucial to consider legal and ethical aspects to ensure safety, respect, and compliance with relevant laws. 
 

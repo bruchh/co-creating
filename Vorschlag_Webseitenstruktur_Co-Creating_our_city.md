@@ -174,7 +174,7 @@ A Co-creating Our City project has benefits for young people and cities, in the 
 
 **Presentation of the modules:**
 
-#### Making the case for 'Co-Creating Our City'
+#### Making the Case for 'Co-Creating Our City'
 
 Discover why Co-Creating Our City projects are essential for meaningful youth engagement. This module explains the benefits of running your own project, including stronger youth participation, collaborative problem-solving, and the creation of more inclusive, responsive cities. Learn how these projects empower both young people and decision-makers to make real impact in their communities.
 
@@ -182,7 +182,7 @@ Discover why Co-Creating Our City projects are essential for meaningful youth en
 
 Set your project up for success with clear goals, a strong team, and solid partnerships. This module offers practical guidance on planning, funding, and building relationships with local organizations and city authorities. Learn how to establish the foundations that ensure your project runs smoothly and delivers meaningful outcomes.
 
-#### Bringing young people and city leaders together
+#### Bringing Young People and City Leaders Together
 
 Meaningful collaboration is at the heart of Co-Creating Our City. This module guides you on connecting young people and decision-makers as co-researchers, overcoming motivational and collaboration challenges, and creating a shared understanding of local needs. Unlock the potential of mutual exchange to design solutions that truly reflect youth perspectives.
 

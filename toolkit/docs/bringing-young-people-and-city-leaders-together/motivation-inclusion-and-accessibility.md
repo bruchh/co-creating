@@ -1,4 +1,4 @@
-# Motivation, inclusion, and accessibility
+# Motivation, Inclusion, and Accessibility
 
 The (young) participants take part in the project voluntarily and devote their free time to act as co-researchers. It is therefore important to ensure they perceive the project as enriching, to show appreciation for their time, and to create an atmosphere in which they feel comfortable to contribute. Project teams should make sure they create an environment in which youth participants feel just as free as the adults to speak up and to participate fully. When bringing together young people and city leaders, it is also essential to acknowledge and address differences in knowledge, experience, and power.
 

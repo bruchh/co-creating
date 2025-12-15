@@ -1,4 +1,4 @@
-# What is participatory research?
+# What is Participatory Research?
 
 Participatory research is a collaborative approach to knowledge creation that engages those affected by an issue as equal partners in all research stages. Unlike traditional research, where experts shape and conduct research, participatory research shares power and decision-making with community members who act as co-researchers. These co-researchers help define research questions, collect and analyze data, and apply findings to create real-world impact. 
 

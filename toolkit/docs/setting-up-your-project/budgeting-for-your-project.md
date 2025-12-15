@@ -1,4 +1,4 @@
-# Budgeting for your project
+# Budgeting for Your Project
 
 ## Staff time
 

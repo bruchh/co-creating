@@ -1,4 +1,4 @@
-# Doing participatory research with young people and city leaders
+# Doing Participatory Research with Young People and City Leaders
 
 'Co-Creating Our City' projects use participatory research methods to bring together key stakeholders―young residents, project organizers, local authorities, and policymakers―and to co-create knowledge and achieve meaningful change. 
 

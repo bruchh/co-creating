@@ -1,4 +1,4 @@
-# Advantages of running your own project
+# Advantages of Running Your Own Project
 
 A 'Co-Creating Our City' project has benefits for young people and cities, in the short and long term.
 

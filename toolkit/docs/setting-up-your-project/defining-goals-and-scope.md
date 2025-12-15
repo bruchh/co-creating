@@ -1,4 +1,4 @@
-# Defining the goals and scope of your project
+# Defining the Goals and Scope of Your Project
 
 For your 'Co-Creating Our City' project to be successful, it is essential to start with a shared understanding of what success looks like. Establishing clear objectives and guardrails early on can help you use time effectively and drive towards concrete outcomes and impact at city level. 
 

@@ -1,4 +1,4 @@
-# About this toolkit and how you can use it
+# About This Toolkit and How You Can Use It
 
 ## What is this toolkit?
 
@@ -18,11 +18,11 @@ You can use this toolkit to start thinking about your own 'Co-Creating Our City'
 
 The toolkit has five modules:
 
-1. Making the case for 'Co-Creating Our City'
+1. Making the Case for 'Co-Creating Our City'
 2. Setting up your own 'Co-Creating Our City' project
-3. Bringing young people and city leaders together
-4. Doing participatory research with young people and city leaders
-5. Achieving impact with your findings and outputs
+3. Bringing Young People and City Leaders Together
+4. Doing Participatory Research with Young People and City Leaders
+5. Achieving Impact with Your Findings and Outputs
 
 ::: tip Contact us
 Contact us with questions or to let us know of your 'Co-Creating Our City' project at citiescomms@gmfus.org

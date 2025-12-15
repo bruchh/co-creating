@@ -1,4 +1,4 @@
-# Recruiting co-researchers
+# Recruiting Co-Researcher
 
 For co-researchers, participation in a 'Co-Creating Our City' project can be demanding and time-consuming, but also very rewarding. To make the recruitment process fair and transparent and tailor it to the strengths and interests of your future co-researchers, it is important to:
 
