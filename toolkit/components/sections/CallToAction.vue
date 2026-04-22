@@ -94,7 +94,7 @@ const partners: Partner[] = [
                     </a>
                     <!-- Tookit Download -->
                     <a
-                        href="/documents/Toolkit-CCoC_2025-12-08.pdf"
+                        href="/documents/Toolkit-dpart_2026-02-26.pdf"
                         class="group bg-dpart-light-blue rounded-xl p-6 transition-all hover:shadow-lg"
                     >
                         <Icon name="tools-3" :size="56" class="mb-2" />

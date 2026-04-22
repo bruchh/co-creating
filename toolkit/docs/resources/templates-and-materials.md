@@ -5,7 +5,7 @@ This page provides ready-to-use materials and templates to support your 'Co-Crea
 ## Ready-to-Use Materials and Templates
 
 ### Overarching Frameworks
-- **[Toolkit Co-Creating Our City](/documents/Toolkit-CCoC_2025-12-08.pdf)** - The complete toolkit for the project.
+- **[Toolkit Co-Creating Our City](/documents/Toolkit-dpart_2026-02-26.pdf)** - The complete toolkit for the project.
 - **[Theory of Change Co-Creating Our City](/documents/Theory%20of%20Change%20Co-Creating%20Our%20City.pdf)** - Outlines the project's long-term goals and how to achieve them.
 - **[Five Steps of Co-Creating Our City](/documents/Five%20Steps%20of%20Co-Creating%20Our%20City.pdf)** - A step-by-step guide to the co-creation process.
 
@@ -27,8 +27,6 @@ This page provides ready-to-use materials and templates to support your 'Co-Crea
 
 ### Legal and Ethical Considerations
 - **[Example Legal Checklist Co-Creating Our City](/documents/Example%20Legal%20Checklist%20Co-Creating%20Our%20City.pdf)** - A checklist to ensure legal and ethical standards are met.
-
-## Annotated Bibliography
 
 ### Further Reading
 Links to other relevant articles, books, webinars, podcasts, videos, websites, and reports.
