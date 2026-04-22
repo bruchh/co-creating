@@ -38,7 +38,7 @@ const partners: Partner[] = [
 </script>
 
 <template>
-    <section class="py-16 md:py-24 rounded-2xl relative mt-8">
+    <section class="py-16 md:py-24 rounded-2xl relative mt-8 mb-0">
         <div
             class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 border-gold border border-dashed rounded-2xl -z-10"
         ></div>
