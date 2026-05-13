@@ -27,10 +27,3 @@ This page provides ready-to-use materials and templates to support your 'Co-Crea
 
 ### Legal and Ethical Considerations
 - **[Example Legal Checklist Co-Creating Our City](/documents/Example%20Legal%20Checklist%20Co-Creating%20Our%20City.pdf)** - A checklist to ensure legal and ethical standards are met.
-
-### Further Reading
-Links to other relevant articles, books, webinars, podcasts, videos, websites, and reports.
-
-::: info Note
-Bibliography content to be added. This section will include curated resources on participatory research, youth engagement, and Citizen Science methods.
-:::
