@@ -12,25 +12,13 @@ import {
 } from "../ui/carousel";
 import { cn } from "../../lib/utils";
 import infographicImage from "../../public/images/Infografik_dpart_5_steps.png";
+import germanInfographicImage from "../../public/images/Infografik_dpart_DE-1.png";
 
-interface QuoteItem {
-    quote: string;
-    person: string;
-    position: string;
-}
+import { computed } from "vue";
+import { useLandingContent } from "../../lib/landing";
 
-const quotes: QuoteItem[] = [
-    {
-        quote: "In these workshops our voices are heard, but we also want to hear the voices of other young people. That's what really motivated me, because I thought: I can make a change with this project.",
-        person: "Rochelle Kirschbaum",
-        position: "Citizen Scientist, Düsseldorf",
-    },
-    {
-        quote: "We don't really typically get to connect with city officials as much. I think having initiatives like 'Co-Creating Our City' will bridge that gap and allow us to better understand the government and also for them to understand like what we might like.",
-        person: "Megha Mittal",
-        position: "Citizen Scientist, Charlotte",
-    },
-];
+const { content, isGerman } = useLandingContent();
+const quotes = computed(() => content.value.howItWorks.quotes);
 </script>
 
 <template>
@@ -39,24 +27,14 @@ const quotes: QuoteItem[] = [
             class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 bg-yellow-light rounded-2xl -z-10"
         ></div>
         <div class="mx-auto">
-            <SectionHeader title="How It Works" centered />
+            <SectionHeader :title="content.howItWorks.label" centered />
             <!-- Main heading and description -->
             <div class="max-w-4xl mb-12 md:mb-16 md:text-center! md:mx-auto">
                 <SectionH2>
-                    Research <span class="underline">with</span> the Community,
-                    Not <span class="underline">on</span> It
+                    {{ content.howItWorks.title.before }}<span class="underline">{{ content.howItWorks.title.with }}</span>{{ content.howItWorks.title.between }}<span class="underline">{{ content.howItWorks.title.on }}</span>{{ content.howItWorks.title.after }}
                 </SectionH2>
                 <p class="text-lg text-slate-700 leading-relaxed">
-                    Co-Creating Our City brings together young people and local
-                    leaders through
-                    <strong>Citizen Science</strong> — research done with the
-                    community, not on it. Together, they study issues that
-                    matter to young residents, share knowledge and experiences,
-                    and develop realistic proposals for change. This
-                    collaborative approach empowers youth to take part in
-                    decision-making, builds trust between generations, and
-                    supports cities in becoming more inclusive and
-                    youth-friendly.
+                    {{ content.howItWorks.descriptionBefore }}<strong>Citizen Science</strong>{{ content.howItWorks.descriptionAfter }}
                 </p>
             </div>
 
@@ -124,11 +102,11 @@ const quotes: QuoteItem[] = [
                 </div>
             </div>
 
-            <!-- Infographic - Full width, centered -->
+            <!-- Infographic in the current page language. -->
             <div class="w-full mx-auto flex">
                 <img
-                    :src="infographicImage"
-                    alt="5 Steps of Co-Creating Our City Process"
+                    :src="isGerman ? germanInfographicImage : infographicImage"
+                    :alt="content.howItWorks.infographicAlt"
                     width="4961"
                     height="2894"
                     loading="lazy"

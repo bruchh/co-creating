@@ -15,13 +15,13 @@ Wenn du allein arbeitest oder die Arbeitszeit deines Teams (teilweise) bereits �
 
 Neben der Arbeitszeit solltest du überlegen, was du für folgende Aktivitäten einplanen musst:
 
-- Durchführung von Workshops, einschließlich Raummiete, Verpflegung für dich und deine Mitforschenden sowie Personalkosten, falls du externe Moderator*innen einsetzt
+- Durchführung von Workshops, einschließlich Raummiete, Verpflegung für dich und deine Mitforschenden sowie Personalkosten, falls du externe Moderator\*innen einsetzt
 - Materialien für die Workshops (z. B. Flipchart-Papier, Stifte, Abonnements für digitale Tools)
 - Anreize (Geschenke, Gutscheine usw.) für deine Mitforschenden, falls du dich entscheidest, diese einzusetzen
-- Forschungskosten (z. B. Kosten für die Durchführung oder Verbreitung einer Umfrage, die Transkription von Interviews, Analysesoftware, Verpflegung oder Anreize für Forschungsteilnehmer*innen, Raummiete für Fokusgruppendiskussionen)
+- Forschungskosten (z. B. Kosten für die Durchführung oder Verbreitung einer Umfrage, die Transkription von Interviews, Analysesoftware, Verpflegung oder Anreize für Forschungsteilnehmer\*innen, Raummiete für Fokusgruppendiskussionen)
 - Reisekosten für dein Team und/oder Mitforschende zu Workshops und Veranstaltungen
 - Kosten für eine Abschlussveranstaltung, um die Ergebnisse mit der breiten Öffentlichkeit zu teilen und zu diskutieren
-- Ressourcen zur Unterstützung der Verbreitung der Projektergebnisse (z. B. Bezahlung von Editor*in oder Grafiker*in für die Erstellung eines Abschlussberichts, eines Videoschnitters für die Produktion von Projektvideos, Kosten für die Durchführung einer Kampagne in den sozialen Medien, Bezahlung eines Live-Illustrators für die visuelle Darstellung von Diskussionen)
+- Ressourcen zur Unterstützung der Verbreitung der Projektergebnisse (z. B. Bezahlung von Editor\*in oder Grafiker\*in für die Erstellung eines Abschlussberichts, eines Videoschnitters für die Produktion von Projektvideos, Kosten für die Durchführung einer Kampagne in den sozialen Medien, Bezahlung eines Live-Illustrators für die visuelle Darstellung von Diskussionen)
 
 | Budget | Ausgaben |
 |---|---:|

@@ -4,6 +4,9 @@ import { ArrowLeft } from "lucide-vue-next";
 import { cn } from "../../../lib/utils";
 import { Button } from "../../../components/ui/button";
 import { useCarousel } from "./useCarousel";
+import { useLandingContent } from "../../../lib/landing";
+
+const { content } = useLandingContent();
 
 const props = defineProps<WithClassAsProps>();
 
@@ -27,7 +30,7 @@ const { orientation, canScrollPrev, scrollPrev } = useCarousel();
     >
         <slot>
             <ArrowLeft class="h-4 w-4 text-current" />
-            <span class="sr-only">Previous Slide</span>
+            <span class="sr-only">{{ content.ui.previousSlide }}</span>
         </slot>
     </Button>
 </template>

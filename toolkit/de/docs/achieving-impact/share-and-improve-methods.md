@@ -2,7 +2,7 @@
 
 ## Evaluation vor, nach und während des Projekts
 
-In partizipativen Forschungsprojekten ist es entscheidend, den eigenen Fortschritt und den der Mitforschenden sowie die gewonnenen Erkenntnisse fortlaufend zu reflektieren. Die Zusammenarbeit mit jungen Menschen und Vertreter*innen aus der Stadtverwaltung als Mitforschende bedeutet, dass sich nicht mit Sicherheit vorhersagen oder kontrollieren lässt, welche Entscheidungen die Gruppe treffen wird und wie das Forschungsprojekt am Ende aussieht. Da iterativ gearbeitet wird, sollte das Team darauf vorbereitet sein, die eigene Praxis im Laufe des Projekts anzupassen und weiterzuentwickeln.
+In partizipativen Forschungsprojekten ist es entscheidend, den eigenen Fortschritt und den der Mitforschenden sowie die gewonnenen Erkenntnisse fortlaufend zu reflektieren. Die Zusammenarbeit mit jungen Menschen und Vertreter\*innen aus der Stadtverwaltung als Mitforschende bedeutet, dass sich nicht mit Sicherheit vorhersagen oder kontrollieren lässt, welche Entscheidungen die Gruppe treffen wird und wie das Forschungsprojekt am Ende aussieht. Da iterativ gearbeitet wird, sollte das Team darauf vorbereitet sein, die eigene Praxis im Laufe des Projekts anzupassen und weiterzuentwickeln.
 
 Das erfordert eine regelmäßige Auswertung nach jedem Workshop, um unmittelbares Feedback von den Mitforschenden einzuholen und Bereiche zu identifizieren, in denen die Arbeitsweise im Projekt angepasst werden kann. Unmittelbares Feedback lässt sich beispielsweise über einen kurzen Online- oder Papierfragebogen einholen oder indem am Ende Zeit für eine Feedbackrunde eingeplant wird.
 

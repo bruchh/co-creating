@@ -4,7 +4,7 @@
 import Quote from '../../../components/ui/Quote.vue'
 </script>
 
-Partizipative Forschung ist ein kollaborativer Ansatz der Wissensgenerierung, der Betroffene eines Themas als gleichberechtigte Partner*innen in alle Phasen der Forschung einbindet. Anders als in der traditionellen Forschung, in der Expert*innen die Forschung gestalten und durchführen, teilt partizipative Forschung Macht und Entscheidungsfindung mit Mitgliedern der Community, die als Mitforschende agieren. Diese Mitforschenden helfen dabei, Forschungsfragen zu definieren, Daten zu erheben und auszuwerten sowie Erkenntnisse anzuwenden, um reale Wirkung zu erzielen.
+Partizipative Forschung ist ein kollaborativer Ansatz der Wissensgenerierung, der Betroffene eines Themas als gleichberechtigte Partner\*innen in alle Phasen der Forschung einbindet. Anders als in der traditionellen Forschung, in der Expert\*innen die Forschung gestalten und durchführen, teilt partizipative Forschung Macht und Entscheidungsfindung mit Mitgliedern der Community, die als Mitforschende agieren. Diese Mitforschenden helfen dabei, Forschungsfragen zu definieren, Daten zu erheben und auszuwerten sowie Erkenntnisse anzuwenden, um reale Wirkung zu erzielen.
 
 Partizipative Forschung ist ein Oberbegriff für Forschungsmethoden, die die aktive Beteiligung von Mitgliedern der Community einbeziehen. Darunter stellen Co-Creation und Citizen Science eigenständige, sich jedoch überlappende Modelle dar, die sich jeweils darin unterscheiden, wie Macht, Wissen und Rollen im Forschungsprozess verteilt werden.
 
@@ -16,22 +16,22 @@ Innerhalb partizipativer Forschungsmethoden umfasst Co-Creation, dass Teilnehmen
 
 Es gibt verschiedene Typologien, um die vielfältigen Formen partizipativer Forschung, Co-Creation und Citizen Science zu erfassen (siehe zum Beispiel Shirk et al., 2012, und Bonney et al., 2009). Sie unterscheiden zwischen Contribution, Collaboration und Co-Creation, basierend auf dem Grad der Einbindung von Mitforschenden und dem Ausmaß an Kontrolle, das Forschungsteams bereit sind abzugeben. Mit zunehmendem Einbindungsgrad von Mitgliedern der Community können Projektteams inklusivere und wirkungsvollere Forschungsergebnisse erzielen.
 
-Contribution bezeichnet Projekte, in denen Teilnehmende vorwiegend Daten nach von Forschenden entwickelten Protokollen erheben oder einreichen, in der Regel ohne Mitspracherecht bei anderen Teilen der Forschung.
+**Contribution** bezeichnet Projekte, in denen Teilnehmende vorwiegend Daten nach von Forschenden entwickelten Protokollen erheben oder einreichen, in der Regel ohne Mitspracherecht bei anderen Teilen der Forschung.
 
-Collaboration bindet Teilnehmende aktiver ein – nicht nur in die Datenerhebung, sondern auch bei der Präzisierung der Forschungsfragen, der Datenauswertung oder der Verbreitung der Forschungsergebnisse.
+**Collaboration** bindet Teilnehmende aktiver ein – nicht nur in die Datenerhebung, sondern auch bei der Präzisierung der Forschungsfragen, der Datenauswertung oder der Verbreitung der Forschungsergebnisse.
 
-Co-Creation stellt den höchsten Grad der Einbindung dar, bei dem Mitglieder der Community und Forschende ihre Kräfte bündeln, um Forschung gemeinsam zu gestalten, durchzuführen und zu verbreiten, und dabei Kontrolle und Verantwortung während des gesamten Prozesses teilen.
+**Co-Creation** stellt den höchsten Grad der Einbindung dar, bei dem Mitglieder der Community und Forschende ihre Kräfte bündeln, um Forschung gemeinsam zu gestalten, durchzuführen und zu verbreiten, und dabei Kontrolle und Verantwortung während des gesamten Prozesses teilen.
 
 Zentrale Aspekte von Co-Creation und Citizen Science:
 
-- Aktive Beteiligung von Bürger*innen in mehreren Phasen der Forschung, etwa bei Entscheidungen zur Forschungsfrage, der Methodenwahl, der Datenerhebung, der Auswertung sowie der Interpretation und Verbreitung der Ergebnisse.
+- Aktive Beteiligung von Bürger\*innen in mehreren Phasen der Forschung, etwa bei Entscheidungen zur Forschungsfrage, der Methodenwahl, der Datenerhebung, der Auswertung sowie der Interpretation und Verbreitung der Ergebnisse.
 - Zusammenarbeit und gleichberechtigte Partnerschaften zwischen institutionell angebundenen Forschenden und unabhängigen Freiwilligen, die als Mitforschende agieren, zum Beispiel junge Menschen.
 - Ein Bekenntnis zu wissenschaftlicher Sorgfalt, Transparenz und dem Teilen von Wissen.
 - Empowerment, Kompetenzaufbau, Vertrauen und verbesserte Beziehungen zwischen Forschenden und den Communities, die sie erforschen.
 
 ## Welche Vorteile bieten Co-Creation und Citizen Science?
 
-Co-Creation und Citizen Science stehen für einen Wandel hin zu mehr Demokratisierung von Forschung und dem dadurch geschaffenen Wissen, wodurch Forschungsergebnisse inklusiver, transparenter und stärker an den Bedürfnissen der betroffenen Communities ausgerichtet werden. Diese Methoden legen den Schwerpunkt auf Gleichberechtigung, das Teilen von Wissen und umsetzbare Ergebnisse. Sie verwandeln jene, die traditionell nur "beforscht" wurden, in befähigte Mitwirkende und stärken die Verbindungen zwischen Fachleuten, Praktiker*innen und der Community zum gegenseitigen Nutzen. Co-Creation und Citizen Science bieten unterschiedlichen Beteiligten vielfältigen Nutzen, darunter Forschende, Communities, Teilnehmende und politische Entscheidungsträger*innen.
+Co-Creation und Citizen Science stehen für einen Wandel hin zu mehr Demokratisierung von Forschung und dem dadurch geschaffenen Wissen, wodurch Forschungsergebnisse inklusiver, transparenter und stärker an den Bedürfnissen der betroffenen Communities ausgerichtet werden. Diese Methoden legen den Schwerpunkt auf Gleichberechtigung, das Teilen von Wissen und umsetzbare Ergebnisse. Sie verwandeln jene, die traditionell nur "beforscht" wurden, in befähigte Mitwirkende und stärken die Verbindungen zwischen Fachleuten, Praktiker\*innen und der Community zum gegenseitigen Nutzen. Co-Creation und Citizen Science bieten unterschiedlichen Beteiligten vielfältigen Nutzen, darunter Forschende, Communities, Teilnehmende und politische Entscheidungsträger\*innen.
 
 ### Vorteile für Forschende
 
@@ -55,7 +55,7 @@ Für Communities fördern Co-Creation und Citizen Science das gemeinsame Lernen.
 
 ### Vorteile für Teilnehmende
 
-Teilnehmende an Co-Creation- und Citizen-Science-Projekten können direkt zu Forschungserkenntnissen beitragen. Ihre Beteiligung bietet jungen Menschen und Vertreter*innen in der Stadtverwaltung die Möglichkeit, Forschungskompetenzen aufzubauen, und kann ihr Verständnis und ihre Wertschätzung für evidenzbasierte Politikgestaltung vertiefen, wodurch die Idee gestärkt wird, dass fundierte Forschung Politik und Communities zum Besseren verändern kann. Durch ihre Teilnahme erlangen Mitforschende ein besseres Verständnis der Komplexität der Herausforderungen, mit denen die Community konfrontiert ist, tragen zur Entwicklung von Lösungen bei und können Selbstwirksamkeit in politischen Entscheidungsprozessen erfahren. Nicht zuletzt ist die Erfahrung auch bereichernd und fördert ein Gefühl von Vertrauen und Zugehörigkeit.
+Teilnehmende an Co-Creation- und Citizen-Science-Projekten können direkt zu Forschungserkenntnissen beitragen. Ihre Beteiligung bietet jungen Menschen und Vertreter\*innen in der Stadtverwaltung die Möglichkeit, Forschungskompetenzen aufzubauen, und kann ihr Verständnis und ihre Wertschätzung für evidenzbasierte Politikgestaltung vertiefen, wodurch die Idee gestärkt wird, dass fundierte Forschung Politik und Communities zum Besseren verändern kann. Durch ihre Teilnahme erlangen Mitforschende ein besseres Verständnis der Komplexität der Herausforderungen, mit denen die Community konfrontiert ist, tragen zur Entwicklung von Lösungen bei und können Selbstwirksamkeit in politischen Entscheidungsprozessen erfahren. Nicht zuletzt ist die Erfahrung auch bereichernd und fördert ein Gefühl von Vertrauen und Zugehörigkeit.
 
 <Quote
   quote="Ich finde, der ganze Workshop hat mir wirklich eine neue Erfahrung und die Motivation gegeben, tatsächlich Teil von etwas Größerem zu sein."
@@ -69,9 +69,9 @@ Teilnehmende an Co-Creation- und Citizen-Science-Projekten können direkt zu For
   position="Citizen Scientist, Charlotte"
 />
 
-### Vorteile für politische Entscheidungsträger*innen
+### Vorteile für politische Entscheidungsträger\*innen
 
-Politische Entscheidungsträger*innen profitieren von verbesserter Kommunikation mit Bürger*innen, was zu einer stärkeren öffentlichen Beteiligung an Entscheidungsprozessen führt. Die Einbeziehung von Bürger*innenperspektiven sorgt dafür, dass Entscheidungen und Regelungen wirksamer umgesetzt werden und stärker an aktuellen Herausforderungen ausgerichtet sind. Durch die Einbindung der Öffentlichkeit schafft Citizen Science breitere Unterstützung für politische Maßnahmen und liefert eine Fülle aktueller, praxisnaher Informationen. Dies hilft Behörden zudem dabei, die Auswirkungen von Regelungen genauer zu beobachten und Maßnahmen bei Bedarf anzupassen.
+Politische Entscheidungsträger\*innen profitieren von verbesserter Kommunikation mit Bürger\*innen, was zu einer stärkeren öffentlichen Beteiligung an Entscheidungsprozessen führt. Die Einbeziehung von Bürger\*innenperspektiven sorgt dafür, dass Entscheidungen und Regelungen wirksamer umgesetzt werden und stärker an aktuellen Herausforderungen ausgerichtet sind. Durch die Einbindung der Öffentlichkeit schafft Citizen Science breitere Unterstützung für politische Maßnahmen und liefert eine Fülle aktueller, praxisnaher Informationen. Dies hilft Behörden zudem dabei, die Auswirkungen von Regelungen genauer zu beobachten und Maßnahmen bei Bedarf anzupassen.
 
 <Quote
   quote="Ich fand es ziemlich beeindruckend, dass die jungen Menschen sehr schnell erfasst haben, dass es junge Menschen gibt, die Möglichkeiten zur politischen Beteiligung haben, und andere, die diese entweder nicht haben oder nicht nutzen. Dieses Ungleichgewicht an Möglichkeiten wurde sofort zu einem Thema im Workshop und wurde klar herausgearbeitet, bis hin zu der Forschungsfrage, warum bestimmte junge Menschen diese politischen Beteiligungsmöglichkeiten nicht nutzen."
@@ -85,15 +85,15 @@ Politische Entscheidungsträger*innen profitieren von verbesserter Kommunikation
   position="Stadt Charlotte"
 />
 
-::: info Mehr erfahren: Wer sind die wichtigsten Akteur*innen im Citizen-Science-Bereich?
+::: info Mehr erfahren: Wer sind die wichtigsten Akteur\*innen im Citizen-Science-Bereich?
 
-Wenn du mehr über Co-Creation und Citizen Science erfahren und dich mit anderen Praktiker*innen vernetzen möchtest, wirf einen Blick auf diese Organisationen.
+Wenn du mehr über Co-Creation und Citizen Science erfahren und dich mit anderen Praktiker\*innen vernetzen möchtest, wirf einen Blick auf diese Organisationen.
 
-**[mit:forschen! (Deutschland)](https://www.mitforschen.org/)**: Als führende deutsche Citizen-Science-Plattform bietet mit:forschen! Ressourcen, Vernetzungsmöglichkeiten und Unterstützung für Praktiker*innen, Forschende und interessierte Mitglieder der Öffentlichkeit. mit:forschen! ermöglicht Kompetenzaufbau, Workshops und Vernetzung.
+**[mit:forschen! (Deutschland)](https://www.mitforschen.org/)**: Als führende deutsche Citizen-Science-Plattform bietet mit:forschen! Ressourcen, Vernetzungsmöglichkeiten und Unterstützung für Praktiker\*innen, Forschende und interessierte Mitglieder der Öffentlichkeit. mit:forschen! ermöglicht Kompetenzaufbau, Workshops und Vernetzung.
 
 **[European Citizen Science Association (ECSA)](https://www.ecsa.ngo/)**: Mit Sitz in Berlin bringt ECSA Organisationen und Einzelpersonen zusammen, die Citizen Science in ganz Europa praktizieren. Der Verband setzt sich für partizipative Methoden ein, gestaltet Qualitätsstandards, organisiert Arbeitsgruppen und fungiert als Anlaufstelle für Citizen Science in Europa.
 
-**[Association for Advancing Participatory Sciences (US)](https://www.participatorysciences.org/)**: Diese auf Nordamerika ausgerichtete Vereinigung, vormals Citizen Science Association, fördert Citizen Science durch Tagungen, Standards, berufliche Weiterbildung und Netzwerke zwischen Praktiker*innen, Forschenden und Verantwortlichen aus Communities.
+**[Association for Advancing Participatory Sciences (US)](https://www.participatorysciences.org/)**: Diese auf Nordamerika ausgerichtete Vereinigung, vormals Citizen Science Association, fördert Citizen Science durch Tagungen, Standards, berufliche Weiterbildung und Netzwerke zwischen Praktiker\*innen, Forschenden und Verantwortlichen aus Communities.
 
 **[Zooniverse](https://www.zooniverse.org/)**: Als eine der weltweit bekanntesten Citizen-Science-Plattformen bietet Zooniverse einer breiten Öffentlichkeit die Möglichkeit, zu Forschung in Natur- und Geisteswissenschaften beizutragen, und zeigt damit das Potenzial partizipativer Methoden für groß angelegte Forschung und öffentliche Beteiligung.
 

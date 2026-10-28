@@ -12,55 +12,12 @@ import {
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "../ui/tabs";
 import Quote from "../ui/Quote.vue";
 
-interface Panel {
-    label: string;
-    heading: string;
-    content: string;
-}
+import { computed } from "vue";
+import { useLandingContent } from "../../lib/landing";
 
-interface QuoteItem {
-    quote: string;
-    person: string;
-    position: string;
-}
-
-const quotes: QuoteItem[] = [
-    {
-        quote: "Ultimately, we are the future. And I feel like making sure that our voices are heard and that we feel well educated and have the opportunity to bring change and bring an impact to our own communities, and forming communities that want to stay connected, is important. It's just better for our future and it's better for forming strong communities.",
-        person: "Kayleigh Mayhew",
-        position: "Citizen Scientist, Charlotte",
-    },
-    {
-        quote: "Youth are so insightful and so wise. It really benefits us to incorporate youth in our planning and design of programming that we're thinking about as a city.",
-        person: "LaKeeshia Fox",
-        position: "City of Charlotte",
-    },
-    {
-        quote: "The decisions made today will only have significant impact in the coming years. And that's why it's important to ask the people who will then have to live with these changes.",
-        person: "Felix Reinkemeier",
-        position: "Citizen Scientist, Düsseldorf",
-    },
-    {
-        quote: "We often compartmentalize our interactions with youth in government. People think of, like, youth protesting or they think of youth doing a program, or an internship. But we rarely really find ways to engage with what their thoughts are, and their opinions are, which is odd, because when we think about city plans, we usually plan out 15, 20 years. Somebody who is 16 now, that is who we are planning for in the future. So not having them involved in that process, I think we're really missing out on really good ideas.",
-        person: "Alexis Gordon",
-        position: "City of Charlotte",
-    },
-];
-
-const panels: Panel[] = [
-    {
-        label: "Challenge",
-        heading: "The Mismatch in Youth Participation",
-        content:
-            "Many cities recognize the value and enormous potential of involving young people in in local governance — yet meaningful engagement often remains out of reach. Traditional formats like youth councils or consultations can feel tokenistic, disconnected from real influence, or inaccessible to underrepresented youth. While many young people are eager to contribute, cities can struggle to tap into youth insights, missing vital opportunities for collaboration and more inclusive decision-making. In many cities, there is a mismatch between the opportunities for exchange and what young people seek as engagement to enact their ideas about vibrant communities.",
-    },
-    {
-        label: "Approach",
-        heading: "Co-Creating Solutions Through Citizen Science",
-        content:
-            "Co-Creating Our City bridges this gap through participatory research and Citizen Science — a collaborative way that sees young people and decision-makers jointly conduct research, gather data, and design actionable solutions for local challenges. By combining lived experience with policy expertise, Co-Creating Our City projects spark dialogue, build trust, and embed youth perspectives in real and feasible decisions. This approach empowers young people and city leaders, strengthens participation and dialogue, and fosters civic skills and confidence - creating more inclusive, vibrant, and democratic communities.",
-    },
-];
+const { content } = useLandingContent();
+const quotes = computed(() => content.value.challenge.quotes);
+const panels = computed(() => content.value.challenge.panels);
 </script>
 
 <template>
@@ -69,9 +26,9 @@ const panels: Panel[] = [
             class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 bg-dpart-light-blue rounded-2xl -z-10"
         ></div>
         <div class="mx-auto">
-            <SectionHeader title="Making The Case" />
+            <SectionHeader :title="content.challenge.label" />
             <SectionH2 class="pb-8"
-                >Why Your City Needs 'Co-Creating Our City'</SectionH2
+                >{{ content.challenge.title }}</SectionH2
             >
 
             <!-- Three-Panel Layout - Desktop -->

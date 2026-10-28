@@ -1,6 +1,9 @@
 <script setup lang="ts">
 import SectionH2 from "../ui/SectionH2.vue";
 import Icon from "../ui/Icon.vue";
+import { useLandingContent } from "../../lib/landing";
+
+const { content, localizedLink, format } = useLandingContent();
 
 interface Partner {
     name: string;
@@ -46,18 +49,17 @@ const partners: Partner[] = [
             <!-- Main CTA Content -->
             <div class="max-w-4xl mx-auto mb-12">
                 <SectionH2 class="mx-auto text-center">
-                    Ready to Start Your Own Project?
+                    {{ content.cta.title }}
                 </SectionH2>
                 <p class="text-lg! text-dpart-purple-dark! mb-10! text-center">
-                    Join cities and organizations creating meaningful youth
-                    engagement through co-creation.
+                    {{ content.cta.description }}
                 </p>
 
                 <!-- CTA Buttons -->
                 <div class="grid md:grid-cols-3 gap-4 max-w-3xl mx-auto mb-16">
                     <!-- Primary CTA -->
                     <a
-                        href="/docs/introduction/what-is-co-creating-our-city"
+                        :href="localizedLink('/docs/introduction/what-is-co-creating-our-city')"
                         class="group bg-salmon rounded-xl p-6 transition-all hover:shadow-lg"
                     >
                         <Icon name="data-3" :size="56" class="mb-2" />
@@ -65,12 +67,11 @@ const partners: Partner[] = [
                             <h3
                                 class="text-xl! font-bold! text-dpart-purple-dark!"
                             >
-                                Start Your Project
+                                {{ content.cta.start }}
                             </h3>
                         </div>
                         <p class="text-dpart-purple-dark! text-sm">
-                            Access the complete toolkit with step-by-step
-                            guidance
+                            {{ content.cta.startDescription }}
                         </p>
                     </a>
 
@@ -84,17 +85,16 @@ const partners: Partner[] = [
                             <h3
                                 class="text-xl! font-bold! text-dpart-purple-dark!"
                             >
-                                Get In Touch
+                                {{ content.cta.contact }}
                             </h3>
                         </div>
                         <p class="text-dpart-purple-dark! text-sm">
-                            Contact us with questions or tell us about your
-                            project
+                            {{ content.cta.contactDescription }}
                         </p>
                     </a>
                     <!-- Tookit Download -->
                     <a
-                        href="/documents/Toolkit-dpart_2026-02-26.pdf"
+                        :href="content.cta.downloadUrl"
                         class="group bg-dpart-light-blue rounded-xl p-6 transition-all hover:shadow-lg"
                     >
                         <Icon name="tools-3" :size="56" class="mb-2" />
@@ -102,13 +102,9 @@ const partners: Partner[] = [
                             <h3
                                 class="text-xl! font-bold! text-dpart-purple-dark!"
                             >
-                                Download The Co-Creating Our City Toolkit
+                                {{ content.cta.download }}
                             </h3>
                         </div>
-                        <!-- <p class="text-dpart-purple-dark! text-sm">
-                            Contact us with questions or tell us about your
-                            project
-                        </p> -->
                     </a>
                 </div>
             </div>
@@ -116,7 +112,7 @@ const partners: Partner[] = [
             <!-- Partner Logos -->
             <div class="max-w-4xl mx-auto">
                 <p class="text-center text-xs! text-slate-500 mb-6! md:mb-8!">
-                    In partnership with
+                    {{ content.cta.partners }}
                 </p>
                 <div
                     class="grid grid-cols-2 md:grid-cols-4 gap-8 items-center justify-items-center"
@@ -128,11 +124,11 @@ const partners: Partner[] = [
                         target="_blank"
                         rel="noopener noreferrer"
                         class="transition-all hover:scale-105"
-                        :aria-label="`Visit ${partner.name} website`"
+                        :aria-label="format(content.ui.partnerWebsite, { name: partner.name })"
                     >
                         <img
                             :src="partner.logo"
-                            :alt="`${partner.name} logo`"
+                            :alt="format(content.ui.partnerLogo, { name: partner.name })"
                             class="h-10! w-auto object-contain"
                             :style="{ transform: `scale(${partner.scale})` }"
                         />

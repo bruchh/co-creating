@@ -1,31 +1,11 @@
 <script setup lang="ts">
 import { CornerDownRight } from "lucide-vue-next";
 
-interface ComparisonPair {
-    traditional: string;
-    coCreated: string;
-}
+import { computed } from "vue";
+import { useLandingContent } from "../../lib/landing";
 
-const comparisons: ComparisonPair[] = [
-    {
-        traditional: "Created for young people",
-        coCreated: "Created with young people and local decision-makers",
-    },
-    {
-        traditional: "Hierarchical way of working",
-        coCreated: "Collaborative way of working",
-    },
-    {
-        traditional: "Adult expertise privileged",
-        coCreated: "Multiple forms of expertise valued",
-    },
-    {
-        traditional:
-            "Knowledge produced for decision-makers and expert audiences",
-        coCreated:
-            "Knowledge produced for practical application and shared with stakeholders",
-    },
-];
+const { content } = useLandingContent();
+const comparisons = computed(() => content.value.howItWorks.comparisons);
 </script>
 
 <template>
@@ -36,12 +16,12 @@ const comparisons: ComparisonPair[] = [
         <div class="flex gap-8 mb-8 text-sm md:hidden">
             <div class="flex items-center gap-2">
                 <div class="w-3 h-3 rounded-full bg-slate-300" />
-                <span class="text-slate-600">Traditional Approach</span>
+                <span class="text-slate-600">{{ content.howItWorks.traditional }}</span>
             </div>
             <div class="flex items-center gap-2">
                 <div class="w-3 h-3 rounded-full bg-dpart-purple-dark!" />
                 <span class="text-dpart-purple-dark! font-medium"
-                    >Co-Created Approach</span
+                    >{{ content.howItWorks.coCreated }}</span
                 >
             </div>
         </div>
@@ -51,12 +31,12 @@ const comparisons: ComparisonPair[] = [
             <div class="md:grid md:grid-cols-2">
                 <h3>
                     <span class="text-dpart-purple-dark! font-bold"
-                        >Traditional Approach</span
+                        >{{ content.howItWorks.traditional }}</span
                     >
                 </h3>
                 <h3>
                     <span class="text-dpart-purple-dark! font-bold"
-                        >Co-Created Approach</span
+                        >{{ content.howItWorks.coCreated }}</span
                     >
                 </h3>
             </div>

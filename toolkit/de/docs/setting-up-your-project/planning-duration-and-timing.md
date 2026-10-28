@@ -6,15 +6,15 @@ Umfassendere Projekte, die darauf abzielen, stadtweite Entscheidungen zu beeinfl
 
 Bei einem Projekt mit einer Laufzeit von neun bis zwölf Monaten kann der Beginn des Schuljahres eine gute Gelegenheit bieten, mit einer Gruppe junger Menschen zusammenzuarbeiten. Gleichzeitig kann es zu Herausforderungen kommen, wenn Workshops und Forschungsaktivitäten mit wichtigen Prüfungsterminen, Ferienzeiten, politischen Ereignissen oder größeren Veranstaltungen in der Stadt zusammenfallen.
 
-Bei kürzeren Projekten kann es sinnvoll sein, die Aktivitäten in die Sommerferien zu legen. So haben junge Menschen an weiterführenden Schulen oder in der beruflichen bzw. weiterführenden Ausbildung mehr zeitlichen Spielraum, um sich zu beteiligen. Gleichzeitig besteht jedoch das Risiko, dass sowohl junge Menschen als auch Entscheidungsträger*innen in dieser Zeit weniger verfügbar sind.
+Bei kürzeren Projekten kann es sinnvoll sein, die Aktivitäten in die Sommerferien zu legen. So haben junge Menschen an weiterführenden Schulen oder in der beruflichen bzw. weiterführenden Ausbildung mehr zeitlichen Spielraum, um sich zu beteiligen. Gleichzeitig besteht jedoch das Risiko, dass sowohl junge Menschen als auch Entscheidungsträger\*innen in dieser Zeit weniger verfügbar sind.
 
 Entscheidend ist, einen flexiblen Zeitplan zu erstellen und diese Faktoren von Anfang an zu berücksichtigen. So kann eine kontinuierlichere Beteiligung gewährleistet, die Möglichkeiten zur Einflussnahme bestmöglich genutzt und die zeitlichen Einschränkungen der beteiligten Mitforschenden berücksichtigt werden.
 
 ::: info Fallstudie: Beispiel für einen Aktivitätenplan im Pilotprojekt „Co-Creating Our City“ in Düsseldorf
 
-| Monat | Geplante Aktivitäten | Beteiligte Akteur*innen |
+| Monat | Geplante Aktivitäten | Beteiligte Akteur\*innen |
 |---|---|---|
-| Mai–Sep. 2024 | Projektaufbau, einschließlich Gewinnung und Schulung von Mitforschenden zu Citizen Scientists | Projektteam, Fördernde oder Sponsor*innen und städtische Behörden |
+| Mai–Sep. 2024 | Projektaufbau, einschließlich Gewinnung und Schulung von Mitforschenden zu Citizen Scientists | Projektteam, Fördernde oder Sponsor\*innen und städtische Behörden |
 | Okt. 2024–März 2025 | Citizen-Science-Forschungsphase, begleitet von einer eigens dafür zuständigen forschenden Person in jeder Stadt | Projektteam und Mitforschende |
 | Mai–Jun. 2025 | Abschlussveranstaltung | Projektteam, Mitforschende, städtische Behörden, breitere Öffentlichkeit |
 | Sep.–Okt. 2025 | Aktivitäten zur Verbreitung der Ergebnisse | Projektteam, ausgewählte Mitforschende |

@@ -11,7 +11,8 @@
   "scripts": {
     "dev": "vitepress dev toolkit",
     "build": "vitepress build toolkit",
-    "preview": "vitepress preview toolkit"
+    "preview": "vitepress preview toolkit",
+    "test:landing": "npm run build && node --test tests/landing.test.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",

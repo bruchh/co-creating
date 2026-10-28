@@ -12,11 +12,11 @@ Um Teilnehmende vorzubereiten, sollten die Workshops eine Einführung in die Gru
 
 ## Öffentliche Veranstaltungen
 
-Eine Abschlussveranstaltung am Ende des Forschungsprozesses bietet die Gelegenheit, die Ergebnisse der Mitforschenden in die breitere Stadtgesellschaft zu tragen, sie mit anderen jungen Menschen und lokalen Akteur*innen zu diskutieren und erste Lösungsansätze für eine weiterentwickelte Jugendbeteiligung in der Stadt zu entwerfen. Diese Veranstaltung könnte stattfinden, nachdem die Forschungsphase abgeschlossen ist und die Mitforschenden erste Ergebnisse identifiziert haben.
+Eine Abschlussveranstaltung am Ende des Forschungsprozesses bietet die Gelegenheit, die Ergebnisse der Mitforschenden in die breitere Stadtgesellschaft zu tragen, sie mit anderen jungen Menschen und lokalen Akteur\*innen zu diskutieren und erste Lösungsansätze für eine weiterentwickelte Jugendbeteiligung in der Stadt zu entwerfen. Diese Veranstaltung könnte stattfinden, nachdem die Forschungsphase abgeschlossen ist und die Mitforschenden erste Ergebnisse identifiziert haben.
 
-Die Abschlussveranstaltung richtet sich an einen größeren Personenkreis als nur die Mitforschenden: junge Menschen, städtische Entscheidungsträger*innen, lokale Fachleute, interessierte Akteur*innen und Mitglieder der Öffentlichkeit. Eine Abschlussveranstaltung bietet außerdem eine gute Gelegenheit, Eindrücke von Beteiligten einzuholen und die lokale Presse einzuladen. Sie könnte in städtischen Räumlichkeiten oder einem öffentlich zugänglichen Ort stattfinden, etwa einem Veranstaltungsraum oder sogar einem Einkaufszentrum.
+Die Abschlussveranstaltung richtet sich an einen größeren Personenkreis als nur die Mitforschenden: junge Menschen, städtische Entscheidungsträger\*innen, lokale Fachleute, interessierte Akteur\*innen und Mitglieder der Öffentlichkeit. Eine Abschlussveranstaltung bietet außerdem eine gute Gelegenheit, Eindrücke von Beteiligten einzuholen und die lokale Presse einzuladen. Sie könnte in städtischen Räumlichkeiten oder einem öffentlich zugänglichen Ort stattfinden, etwa einem Veranstaltungsraum oder sogar einem Einkaufszentrum.
 
-Mitforschende sollten in die Gestaltung des Programms der Veranstaltung eingebunden werden. Das Programm sollte den Mitforschenden die Möglichkeit bieten, ihre Ergebnisse aus dem Projekt vorzustellen, etwa in einer Slideshow oder einem Gallery Walk, sowie Gelegenheiten, die Ergebnisse mit Akteur*innen und der Öffentlichkeit zu diskutieren, zum Beispiel durch Feedback-Möglichkeiten während des Gallery Walks oder in einer Fishbowl-Diskussion. Zusätzlich können partizipative Workshops, die einzelne Aspekte der Ergebnisse vertiefend besprechen und die Einbindung der anwesenden Akteur*innen und der Öffentlichkeit weiter stärken.
+Mitforschende sollten in die Gestaltung des Programms der Veranstaltung eingebunden werden. Das Programm sollte den Mitforschenden die Möglichkeit bieten, ihre Ergebnisse aus dem Projekt vorzustellen, etwa in einer Slideshow oder einem Gallery Walk, sowie Gelegenheiten, die Ergebnisse mit Akteur\*innen und der Öffentlichkeit zu diskutieren, zum Beispiel durch Feedback-Möglichkeiten während des Gallery Walks oder in einer Fishbowl-Diskussion. Zusätzlich können partizipative Workshops, die einzelne Aspekte der Ergebnisse vertiefend besprechen und die Einbindung der anwesenden Akteur\*innen und der Öffentlichkeit weiter stärken.
 
 <Quote
   quote="Ich bin einfach unglaublich begeistert. Zunächst einmal ist es einfach belebend, mit jungen Menschen zusammen zu sein, die sich dafür einsetzen, ihre Communities besser zu machen. Die letzten paar Tage in dieser Gruppe waren für mich beeindruckend. Aber noch wichtiger ist, welche Ideen dabei entstehen und wie wir helfen können, sie zum Leben zu erwecken."
@@ -38,12 +38,12 @@ Mitforschende sollten in die Gestaltung des Programms der Veranstaltung eingebun
 
 - Citizen Scientists teilen ihre gemeinsamen Ergebnisse zu Bedürfnissen und Herausforderungen der Jugendbeteiligung in Düsseldorf
 - Konkrete Vorschläge entwickeln und diskutieren, um junge Menschen besser in politische und zivilgesellschaftliche Prozesse einzubinden
-- Den Dialog auf Augenhöhe zwischen jungen Menschen, Politik, Verwaltung und Expert*innen für Stadtgesellschaft ausbauen
+- Den Dialog auf Augenhöhe zwischen jungen Menschen, Politik, Verwaltung und Expert\*innen für Stadtgesellschaft ausbauen
 
 **Konkrete Lösungen für Düsseldorf**
 
 - Initiativen identifizieren, an denen die Stadtverwaltung und junge Menschen gemeinsam arbeiten können
-- Einbindung von Entscheidungsträger*innen, um die tatsächliche Umsetzung der Ideen zu fördern
+- Einbindung von Entscheidungsträger\*innen, um die tatsächliche Umsetzung der Ideen zu fördern
 - Besprechung konkreter nächster Schritte und Möglichkeiten, die Vorschläge in die Stadtpolitik zu übernehmen
 
 **Ablauf**
@@ -105,7 +105,7 @@ Lokale Medien oder Medienangebote, die sich an junge Menschen richten, sind herv
 
 Lokale Medien oder Medienangebote, die sich an junge Menschen richten, sollten bei der Kommunikation der Projektergebnisse einbezogen werden. Darüber hinaus können sich Kommunikationsmöglichkeiten innerhalb des Projekts auch aus der Dokumentation des Prozesses und der Workshops ergeben, etwa dem Kick-off, Aufrufen zur Teilnahme am Projekt oder an der Forschung, der Wirkung der Ergebnisse oder persönlichen Erfahrungen der Teilnehmenden.
 
-Die Teilnehmenden können auf Grundlage ihres eigenen Mediennutzungsverhaltens wertvolle Hinweise auf geeignete Kanäle und Medienangebote geben (etwa Jugendmedien, relevante Diskussionsforen oder Social-Media-Plattformen, sogar lokale Social-Media-Influencer*innen). Möglicherweise sind die jungen Mitforschenden selbst Teil einer Jugendredaktion oder arbeiten an einer Schülerzeitung, in der Zusammenfassungen der Ergebnisse platziert werden könnten.
+Die Teilnehmenden können auf Grundlage ihres eigenen Mediennutzungsverhaltens wertvolle Hinweise auf geeignete Kanäle und Medienangebote geben (etwa Jugendmedien, relevante Diskussionsforen oder Social-Media-Plattformen, sogar lokale Social-Media-Influencer\*innen). Möglicherweise sind die jungen Mitforschenden selbst Teil einer Jugendredaktion oder arbeiten an einer Schülerzeitung, in der Zusammenfassungen der Ergebnisse platziert werden könnten.
 
 ::: info Ideen für jugendorientierte Medienangebote
 

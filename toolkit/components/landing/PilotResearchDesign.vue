@@ -1,4 +1,8 @@
 <script setup lang="ts">
+import { useLandingContent } from "../../lib/landing";
+
+const { content } = useLandingContent();
+
 interface ResearchMethod {
     name: string;
     description: string;
@@ -14,7 +18,7 @@ defineProps<{
         class="bg-dpart-purple-dark! rounded-2xl p-6 md:py-10 shadow-sm border border-slate-200 h-full"
     >
         <h3 class="text-2xl! font-bold! text-dpart-purple-rose! mb-4!">
-            Research Design <span class="block text-base">(Mixed Methods)</span>
+            {{ content.pilots.researchDesign }} <span class="block text-base">{{ content.pilots.mixedMethods }}</span>
         </h3>
         <div class="space-y-4 text-white!">
             <div

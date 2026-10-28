@@ -295,9 +295,10 @@ export default defineConfig({
       lang: "de-DE",
       link: "/de/",
       description:
-        "Junge Menschen und Entscheidungsträger*innen gestalten Beteiligung und Wandel",
+        "Junge Menschen und Entscheidungsträger*innen gestalten Partizipation und Transformation",
       themeConfig: {
         nav: [
+          { text: "Startseite", link: "/de/" },
           { text: "Toolkit", link: "/de/docs/introduction/what-is-co-creating-our-city" },
         ],
         sidebar: {

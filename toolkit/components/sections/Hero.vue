@@ -1,6 +1,9 @@
 <script setup lang="ts">
 import CustomButton from "../ui/CustomButton.vue";
 import PilotVideo from "../landing/PilotVideo.vue";
+import { useLandingContent } from "../../lib/landing";
+
+const { content, localizedLink } = useLandingContent();
 </script>
 
 <template>
@@ -14,24 +17,22 @@ import PilotVideo from "../landing/PilotVideo.vue";
                 <span class="text-dpart-purple-light">
                     Co-Creating Our City:</span
                 >
-                Youth and Decision-Makers Shaping Participation and Change
+                {{ content.hero.title }}
             </h1>
             <p class="text-xl text-dpart-purple-dark mb-8 text-balance!">
-                Co-Creating Our City is a participatory project that brings
-                together local young people and decision-makers to shape
-                opportunities for youth engagement in cities and municipalities.
+                {{ content.hero.description }}
             </p>
             <div class="">
                 <CustomButton
-                    label="Discover The Toolkit"
-                    href="/docs/introduction/what-is-co-creating-our-city"
+                    :label="content.hero.discoverShort"
+                    :href="localizedLink('/docs/introduction/what-is-co-creating-our-city')"
                     size="lg"
                     variant="default"
                     class="md:hidden"
                 />
                 <CustomButton
-                    label="Discover The Co-Creating Our City Toolkit"
-                    href="/docs/introduction/what-is-co-creating-our-city"
+                    :label="content.hero.discover"
+                    :href="localizedLink('/docs/introduction/what-is-co-creating-our-city')"
                     size="lg"
                     variant="default"
                     class="max-md:hidden"

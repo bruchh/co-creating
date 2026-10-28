@@ -1,18 +1,9 @@
 ---
-layout: page
-sidebar: false
-aside: false
-outline: false
+layout: home
 ---
 
 <script setup>
-import { onMounted } from 'vue'
-
-onMounted(() => {
-  window.location.replace('/de/docs/introduction/what-is-co-creating-our-city')
-})
+import LandingPage from '../components/landing/LandingPage.vue'
 </script>
 
-# Co-Creating Our City
-
-[Weiter zum deutschen Toolkit →](/de/docs/introduction/what-is-co-creating-our-city)
+<LandingPage />

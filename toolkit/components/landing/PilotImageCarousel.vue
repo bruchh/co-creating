@@ -7,6 +7,10 @@ import {
     CarouselPrevious,
 } from "../ui/carousel";
 
+import { useLandingContent } from "../../lib/landing";
+
+const { content, format } = useLandingContent();
+
 interface Props {
     images: string[];
     city: string;
@@ -34,7 +38,7 @@ defineProps<Props>();
                 >
                     <img
                         :src="image"
-                        :alt="`${city} project image ${index + 1}`"
+                        :alt="format(content.ui.projectImage, { city, number: index + 1 })"
                         class="object-cover rounded-2xl flex-1 w-full min-h-0"
                     />
                 </CarouselItem>

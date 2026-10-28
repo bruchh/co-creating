@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { computed, ref } from "vue";
+import { useLandingContent } from "../../lib/landing";
 import SectionHeader from "../ui/SectionHeader.vue";
 import SectionH2 from "../ui/SectionH2.vue";
 import {
@@ -11,50 +12,8 @@ import {
 } from "../ui/carousel";
 import CustomButton from "../ui/CustomButton.vue";
 
-interface Module {
-    id: string;
-    title: string;
-    description: string;
-    link: string;
-}
-
-const modules: Module[] = [
-    {
-        id: "making-the-case",
-        title: "Making the Case for 'Co-Creating Our City'",
-        description:
-            "Discover why Co-Creating Our City projects are essential for meaningful youth engagement. Learn how they boost youth participation, foster collaboration, and create more inclusive communities. See how these projects empower both young people and decision-makers to make real impact.",
-        link: "/docs/making-the-case/why-we-need-co-creating-our-city",
-    },
-    {
-        id: "setting-up",
-        title: "Setting Up Your Own Project",
-        description:
-            "Build a strong foundation for your project with practical guidance on planning and budgeting. Find out how to set goals, plan, fund, and assemble the right team and partnerships. Ensure your project runs smoothly and delivers meaningful results.",
-        link: "/docs/setting-up-your-project",
-    },
-    {
-        id: "bringing-together",
-        title: "Bringing Young People and City Leaders Together",
-        description:
-            "Turn collaboration into real action. Learn how to recruit, motivate, and meaningfully connect young people and decision-makers as co-researchers, how to overcome challenges, and design solutions that reflect real youth perspectives.",
-        link: "/docs/bringing-young-people-and-city-leaders-together/",
-    },
-    {
-        id: "participatory-research",
-        title: "Doing Participatory Research",
-        description:
-            "Learn to plan, facilitate, and sustain participatory research that combines youth insight and policy expertise. Access step-by-step guidance, ready-to-use materials, and tips to turn research into actionable solutions for your community.",
-        link: "/docs/doing-participatory-research",
-    },
-    {
-        id: "achieving-impact",
-        title: "Achieving Impact",
-        description:
-            "Make your findings count. Discover how to share results with youth and the wider public, while motivating city leaders to act on the findings. Translate research into policies, programs, and lasting change that strengthen youth engagement in your community.",
-        link: "/docs/achieving-impact/",
-    },
-];
+const { content, localizedLink } = useLandingContent();
+const modules = computed(() => content.value.toolkit.modules);
 
 const selectedModuleIndex = ref(0);
 </script>
@@ -65,17 +24,13 @@ const selectedModuleIndex = ref(0);
             class="absolute inset-y-0 -inset-x-4 md:-inset-x-8 bg-dpart-light-blue rounded-2xl -z-10"
         ></div>
         <div class="mx-auto">
-            <SectionHeader title="Toolkit Modules" />
+            <SectionHeader :title="content.toolkit.label" />
 
             <!-- Intro -->
             <div class="max-w-3xl mb-12 md:mb-16">
-                <SectionH2> Start Your Own Project With Our Toolkit </SectionH2>
+                <SectionH2>{{ content.toolkit.title }}</SectionH2>
                 <p class="text-lg text-slate-700 leading-relaxed">
-                    Explore the Co-Creating Our City toolkit and learn how to
-                    involve young people and decision-makers in shaping your
-                    city. Access practical steps, tips, and resources to plan,
-                    run, and strengthen your project and turn youth ideas into
-                    real, tangible impact in your city or community.
+                    {{ content.toolkit.description }}
                 </p>
             </div>
 
@@ -125,9 +80,9 @@ const selectedModuleIndex = ref(0);
                             </p>
 
                             <CustomButton
-                                label="Explore This Module"
+                                :label="content.toolkit.explore"
                                 :as="'a'"
-                                :href="modules[selectedModuleIndex].link"
+                                :href="localizedLink(modules[selectedModuleIndex].link)"
                                 size="lg"
                                 variant="default"
                             />
@@ -158,7 +113,7 @@ const selectedModuleIndex = ref(0);
                                     <div
                                         class="text-xs font-semibold text-dpart-purple-light! uppercase tracking-wide mb-2"
                                     >
-                                        Module {{ index + 1 }}
+                                        {{ content.toolkit.module }} {{ index + 1 }}
                                     </div>
                                     <h3
                                         class="text-xl! font-bold! text-dpart-purple-dark! mb-4!"
@@ -172,9 +127,9 @@ const selectedModuleIndex = ref(0);
                                     </p>
                                 </div>
                                 <CustomButton
-                                    label="Explore This Module"
+                                    :label="content.toolkit.explore"
                                     :as="'a'"
-                                    :href="module.link"
+                                    :href="localizedLink(module.link)"
                                     size="lg"
                                     variant="default"
                                     class=""

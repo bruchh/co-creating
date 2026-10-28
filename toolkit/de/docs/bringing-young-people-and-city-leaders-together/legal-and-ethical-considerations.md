@@ -1,6 +1,6 @@
 # Rechtliche und ethische Aspekte
 
-Bei der Arbeit mit jungen Menschen und erwachsenen Entscheidungsträger*innen in einem „Co-Creating Our City“ -Projekt ist es entscheidend, rechtliche und ethische Aspekte zu berücksichtigen, um die Sicherheit und den respektvollen Umgang miteinander zu gewährleisten sowie die Einhaltung der geltenden rechtlichen Bestimmungen sicherzustellen.
+Bei der Arbeit mit jungen Menschen und erwachsenen Entscheidungsträger\*innen in einem „Co-Creating Our City“ -Projekt ist es entscheidend, rechtliche und ethische Aspekte zu berücksichtigen, um die Sicherheit und den respektvollen Umgang miteinander zu gewährleisten sowie die Einhaltung der geltenden rechtlichen Bestimmungen sicherzustellen.
 
 ## Einverständniserklärung zur Teilnahme
 

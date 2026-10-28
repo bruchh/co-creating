@@ -4,6 +4,9 @@ import { ArrowRight } from "lucide-vue-next";
 import { cn } from "../../../lib/utils";
 import { Button } from "../../ui/button";
 import { useCarousel } from "./useCarousel";
+import { useLandingContent } from "../../../lib/landing";
+
+const { content } = useLandingContent();
 
 const props = defineProps<WithClassAsProps>();
 
@@ -27,7 +30,7 @@ const { orientation, canScrollNext, scrollNext } = useCarousel();
     >
         <slot>
             <ArrowRight class="h-4 w-4 text-current" />
-            <span class="sr-only">Next Slide</span>
+            <span class="sr-only">{{ content.ui.nextSlide }}</span>
         </slot>
     </Button>
 </template>

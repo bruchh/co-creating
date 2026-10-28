@@ -105,6 +105,17 @@ import Features from '@/components/landing/Features.vue'
 - `npm run dev` - Start dev server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
+- `npm run test:landing` - Build and check the English/German landing pages, localized links, accessibility labels, and PDF downloads
+
+## Landing Page Translations
+
+- `/` (`toolkit/index.md`) and `/de/` (`toolkit/de/index.md`) both render `toolkit/components/landing/LandingPage.vue`.
+- Landing copy lives in `toolkit/lib/landing/en.ts` and `de.ts`. The German dictionary is checked against the English content shape with TypeScript.
+- `useLandingContent()` in `toolkit/lib/landing/index.ts` selects copy reactively using VitePress's `useData().lang` and localizes `/docs/` links. Do not store the selected language in a module-level variable (SSR shares modules between pages).
+- Video/image URLs are shared in `toolkit/lib/landing/media.ts`; translatable captions and accessible labels stay in the dictionaries.
+- Gender stars in these Vue text values are literal; unlike Markdown copy they do not need escaping.
+- The five-step infographic is localized in `HowItWorks.vue`: English uses `/images/Infografik_dpart_5_steps.png`, German uses `/images/Infografik_dpart_DE-1.png`. The German five-step toolkit chapter also uses this German asset and `/Infografik_dpart_DE-2.png` in place of `/info-2.png`.
+- The German download uses `toolkit/public/documents/Toolkit-Co-Creating-Our-City-DE.pdf`; the English download is unchanged.
 
 ## Notes for AI Agents
 

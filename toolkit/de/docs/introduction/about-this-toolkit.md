@@ -8,7 +8,7 @@ Dieses Toolkit fasst die Erkenntnisse aus zwei „Co-creating our City“ -Proje
 
 ## Für wen ist das Toolkit gedacht?
 
-Das Toolkit richtet sich an Mitarbeitende von Stadtverwaltungen, Fachleute für Jugendbeteiligung, Jugendarbeiter*innen, lokale Gemeinschaftsorganisationen und Forschende, die junge Menschen und lokale Entscheidungsträger*innen in ein gemeinsam gestaltetes Forschungsprojekt einbinden möchten, um die Stimmen der Jugend einzubeziehen und das Engagement junger Menschen in lokalen Communities zu stärken. Mit Community ist hier ein Oberbegriff gemeint, der das eigene soziale Umfeld, Gleichgesinnte mit ähnlichen Interessen oder ein Ort der Zugehörigkeit beschreibt.
+Das Toolkit richtet sich an Mitarbeitende von Stadtverwaltungen, Fachleute für Jugendbeteiligung, Jugendarbeiter\*innen, lokale Gemeinschaftsorganisationen und Forschende, die junge Menschen und lokale Entscheidungsträger\*innen in ein gemeinsam gestaltetes Forschungsprojekt einbinden möchten, um die Stimmen der Jugend einzubeziehen und das Engagement junger Menschen in lokalen Communities zu stärken. Mit Community ist hier ein Oberbegriff gemeint, der das eigene soziale Umfeld, Gleichgesinnte mit ähnlichen Interessen oder ein Ort der Zugehörigkeit beschreibt.
 
 ## Wie kann dieses Toolkit genutzt werden?
 
@@ -20,8 +20,8 @@ Das Toolkit umfasst fünf Module:
 
 1. Argumente für „Co-Creating Our City“
 2. Ein eigenes „Co-Creating Our City“-Projekt aufsetzen
-3. Junge Menschen und Vertreter*innen in der Stadtverwaltung miteinander ins Gespräch bringen
-4. Partizipative Forschung mit jungen Menschen und lokalen Entscheidungsträger*innen durchführen
+3. Junge Menschen und Vertreter\*innen in der Stadtverwaltung miteinander ins Gespräch bringen
+4. Partizipative Forschung mit jungen Menschen und lokalen Entscheidungsträger\*innen durchführen
 5. Mit Forschungsergebnissen und Projektergebnissen Wirkung erzielen
 
 ::: tip Kontakt
@@ -33,11 +33,11 @@ Bei Fragen oder um uns von deinem „Co-Creating Our City“ -Projekt zu bericht
 
 Im Juni 2024 starteten die beiden Pilotstädte Charlotte in North Carolina (USA) und Düsseldorf (Deutschland) einjährige „Co-creating our City“ -Projekte. Ziel der Projekte war es, die bestehende Lücke zwischen den von den Städten angebotenen Möglichkeiten zur Jugendbeteiligung und den Erwartungen junger Menschen an eine stärkere Mitwirkung an kommunalen Entscheidungsprozessen zu schließen.
 
-Mithilfe des partizipativen Forschungsansatzes „Citizen Science“ arbeiteten junge Menschen im Alter von 14 bis 24 Jahren gemeinsam mit Stadtmitarbeiter*innen und lokalen Politiker*innen daran, eine Forschungsfrage zu entwickeln und eigene Forschung durchzuführen, um die Bedürfnisse junger Menschen sowie bestehende Möglichkeiten für Jugendbeteiligung in ihren Städten zu untersuchen.
+Mithilfe des partizipativen Forschungsansatzes „Citizen Science“ arbeiteten junge Menschen im Alter von 14 bis 24 Jahren gemeinsam mit Stadtmitarbeiter\*innen und lokalen Politiker\*innen daran, eine Forschungsfrage zu entwickeln und eigene Forschung durchzuführen, um die Bedürfnisse junger Menschen sowie bestehende Möglichkeiten für Jugendbeteiligung in ihren Städten zu untersuchen.
 
 Auf Basis der Ergebnisse ihrer sechsmonatigen Forschungsphase entwickelten die Gruppen Empfehlungen für konkrete Lösungen, für ihre jeweiligen Forschungsfragen. Die Projekte zeigten dabei verschiedene Möglichkeiten auf, wie lebendige Communities geschaffen und die Beteiligungsmöglichkeiten junger Menschen verbessert werden können. Im Sommer 2025 präsentierten die jungen Mitforschenden ihre Ergebnisse vor Mitgliedern ihrer Community und den Verantwortlichen der Stadt.
 
-Im Rahmen des Pilotprojekts reisten die jugendlichen Mitforschenden aus Düsseldorf nach Charlotte, um gemeinsam mit ihren US-amerikanischen Kolleg*innen an Lösungen für ein noch intensiveres Jugendengagement in Städten zu arbeiten und die Erkenntnisse aus den beiden Projekten für dieses Toolkit zusammenzuführen.
+Im Rahmen des Pilotprojekts reisten die jugendlichen Mitforschenden aus Düsseldorf nach Charlotte, um gemeinsam mit ihren US-amerikanischen Kolleg\*innen an Lösungen für ein noch intensiveres Jugendengagement in Städten zu arbeiten und die Erkenntnisse aus den beiden Projekten für dieses Toolkit zusammenzuführen.
 
-Danksagung: Wir danken der Gambrell Foundation für ihre richtungsweisenden Ideen und die großzügige Unterstützung der beiden Pilotprojekte. Wir danken den Mitarbeiter*innen der Stadt Charlotte, der Landeshauptstadt Düsseldorf und des Jugendrings Düsseldorf für ihre Unterstützung und ihren engagierten Einsatz bei diesem Projekt.
+Danksagung: Wir danken der Gambrell Foundation für ihre richtungsweisenden Ideen und die großzügige Unterstützung der beiden Pilotprojekte. Wir danken den Mitarbeiter\*innen der Stadt Charlotte, der Landeshauptstadt Düsseldorf und des Jugendrings Düsseldorf für ihre Unterstützung und ihren engagierten Einsatz bei diesem Projekt.
 :::

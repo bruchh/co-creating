@@ -1,4 +1,9 @@
 <script setup lang="ts">
+import { computed } from "vue";
+import { useLandingContent } from "../../lib/landing";
+
+const { content, format } = useLandingContent();
+
 interface Props {
     city: string;
     videoUrl: string;
@@ -24,7 +29,8 @@ const getEmbedUrl = (url: string): string => {
     return url;
 };
 
-const embedUrl = getEmbedUrl(props.videoUrl);
+const embedUrl = computed(() => getEmbedUrl(props.videoUrl));
+const title = computed(() => format(content.value.ui.projectVideo, { city: props.city }));
 </script>
 
 <template>
@@ -35,7 +41,7 @@ const embedUrl = getEmbedUrl(props.videoUrl);
         <iframe
             v-if="embedUrl"
             :src="embedUrl"
-            :title="`${city} Project Video`"
+            :title="title"
             class="w-full h-full"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -47,7 +53,7 @@ const embedUrl = getEmbedUrl(props.videoUrl);
             v-else
             class="w-full h-full bg-slate-100 flex items-center justify-center"
         >
-            <p class="text-slate-500 text-lg">{{ city }} Project Video</p>
+            <p class="text-slate-500 text-lg">{{ title }}</p>
         </div>
     </div>
 </template>

@@ -7,7 +7,7 @@ Um die fünf Schritte partizipativer Forschung aufzusetzen und durchzuführen, m
 
 ## Workshops als Raum für die Zusammenarbeit mit Mitforschenden
 
-Um zu bestimmten Zeitpunkten Raum für Zusammenarbeit zu schaffen, kann es sinnvoll sein, eine Reihe von Workshops zu organisieren, in denen sowohl junge Menschen als auch städtische Entscheidungsträger*innen zusammenkommen, um Ideen auszutauschen, Vertrauen aufzubauen und das Forschungsprojekt aktiv gemeinsam zu gestalten und umzusetzen.
+Um zu bestimmten Zeitpunkten Raum für Zusammenarbeit zu schaffen, kann es sinnvoll sein, eine Reihe von Workshops zu organisieren, in denen sowohl junge Menschen als auch städtische Entscheidungsträger\*innen zusammenkommen, um Ideen auszutauschen, Vertrauen aufzubauen und das Forschungsprojekt aktiv gemeinsam zu gestalten und umzusetzen.
 
 Workshops bieten einen strukturierten und zugleich flexiblen Rahmen, in dem Forschende und Mitforschende gemeinsam arbeiten, lernen, Wissen teilen, Erwartungen abgleichen und Herausforderungen gemeinsam angehen können. Idealerweise vor Ort und mit persönlicher Interaktion fördern Workshops gegenseitiges Verständnis und befähigen Mitforschende, bedeutsame Rollen im Forschungsprozess zu übernehmen und zu engagierten Citizen Scientists zu werden, während Forschende wertvolle Einblicke aus den gelebten Erfahrungen und dem Kontextwissen der Teilnehmenden gewinnen.
 
